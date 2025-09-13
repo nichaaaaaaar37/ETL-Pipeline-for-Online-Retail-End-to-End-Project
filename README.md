@@ -73,13 +73,13 @@ WHERE Customer_ID IS NOT NULL
 GROUP BY Customer_ID
 ORDER BY total_sales DESC
 LIMIT 10;
+```
+**2. Duplicate Check**
+```sql
+SELECT Invoice, StockCode, COUNT(*) AS cnt
+FROM hip-catalyst-471911-a1.retail_dataset.online_retail_processed
+GROUP BY Invoice, StockCode
+HAVING COUNT(*) > 1;;
+```
+#### 📂 More Samples in [`sql/`](./sql) folder :)
 
-SELECT
-  Customer_ID,
-  ROUND(SUM(Total_Price), 2) AS total_sales,
-  SUM(Quantity) AS total_quantity
-FROM `hip-catalyst-471911-a1.retail_dataset.online_retail_processed`
-WHERE Customer_ID IS NOT NULL
-GROUP BY Customer_ID
-ORDER BY total_sales DESC
-LIMIT 10;
