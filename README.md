@@ -88,6 +88,28 @@ It processes raw retail sales data, ensures data quality, and loads clean datase
 
 ---
 
+## 📂 Sample Cleaned Data  
+
+A sample of the cleaned dataset (after ETL pipeline, before loading into BigQuery) is included for quick inspection.  
+
+🔹 [cleaned_data/final_online_retail_cleaned_sample.csv](./cleaned_data/final_online_retail_cleaned_sample.csv)  
+
+**Columns:**  
+- `Invoice`  
+- `StockCode`  
+- `Description` (cleaned & normalized)  
+- `Quantity` (positive only)  
+- `InvoiceDate`  
+- `Price`  
+- `Customer ID`  
+- `Country`  
+- `Total Price`  
+- `DayOfWeek Num` / `DayOfWeek Name`  
+- `IsWeekend`  
+- `Flag For Review`  
+
+---
+
 ### 📊 Sample Analytics & Validation Queries 
 **1. Top Customers by Sales**
 
