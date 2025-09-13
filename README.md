@@ -92,7 +92,7 @@ It processes raw retail sales data, ensures data quality, and loads clean datase
 
 A sample of the cleaned dataset (after ETL pipeline, before loading into BigQuery) is included for quick inspection.  
 
-🔹 [cleaned_data/final_online_retail_cleaned_sample.csv](./cleaned_data/final_online_retail_cleaned_sample.csv)  
+🧤✨ [cleaned_data/final_online_retail_cleaned_sample.csv](./cleaned_data/final_online_retail_cleaned_sample.csv)  
 
 **Columns:**  
 - `Invoice`  
