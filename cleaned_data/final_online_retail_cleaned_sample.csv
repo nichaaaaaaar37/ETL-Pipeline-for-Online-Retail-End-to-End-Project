@@ -1,0 +1,1001 @@
+Invoice,StockCode,Description,Quantity,InvoiceDate,Price,Customer ID,Country,Total Price,DayOfWeek Num,DayOfWeek Name,IsWeekend,Flag For Review
+489434,85048,15cm christmas glass ball 20 lights,12,2009-12-01 07:45:00,6.95,13085.0,United Kingdom,83.4,1,Tuesday,False,False
+489434,79323P,Pink cherry lights,12,2009-12-01 07:45:00,6.75,13085.0,United Kingdom,81.0,1,Tuesday,False,False
+489434,79323W,White cherry lights,12,2009-12-01 07:45:00,6.75,13085.0,United Kingdom,81.0,1,Tuesday,False,False
+489434,22041,"Record frame 7"" single size",48,2009-12-01 07:45:00,2.1,13085.0,United Kingdom,100.80000000000001,1,Tuesday,False,False
+489434,21232,Strawberry ceramic trinket box,24,2009-12-01 07:45:00,1.25,13085.0,United Kingdom,30.0,1,Tuesday,False,False
+489434,22064,Pink doughnut trinket pot,24,2009-12-01 07:45:00,1.65,13085.0,United Kingdom,39.599999999999994,1,Tuesday,False,False
+489434,21871,Save the planet mug,24,2009-12-01 07:45:00,1.25,13085.0,United Kingdom,30.0,1,Tuesday,False,False
+489434,21523,Fancy font home sweet home doormat,10,2009-12-01 07:45:00,5.95,13085.0,United Kingdom,59.5,1,Tuesday,False,False
+489435,22350,Cat bowl,12,2009-12-01 07:46:00,2.55,13085.0,United Kingdom,30.599999999999998,1,Tuesday,False,False
+489435,22349,"Dog bowl , chasing ball design",12,2009-12-01 07:46:00,3.75,13085.0,United Kingdom,45.0,1,Tuesday,False,False
+489435,22195,Heart measuring spoons large,24,2009-12-01 07:46:00,1.65,13085.0,United Kingdom,39.599999999999994,1,Tuesday,False,False
+489435,22353,Lunchbox with cutlery fairy cakes,12,2009-12-01 07:46:00,2.55,13085.0,United Kingdom,30.599999999999998,1,Tuesday,False,False
+489436,48173C,Door mat black flock,10,2009-12-01 09:06:00,5.95,13078.0,United Kingdom,59.5,1,Tuesday,False,False
+489436,21755,Love building block word,18,2009-12-01 09:06:00,5.45,13078.0,United Kingdom,98.10000000000001,1,Tuesday,False,False
+489436,21754,Home building block word,3,2009-12-01 09:06:00,5.95,13078.0,United Kingdom,17.85,1,Tuesday,False,False
+489436,84879,Assorted colour bird ornament,16,2009-12-01 09:06:00,1.69,13078.0,United Kingdom,27.04,1,Tuesday,False,False
+489436,22119,Peace wooden block letters,3,2009-12-01 09:06:00,6.95,13078.0,United Kingdom,20.85,1,Tuesday,False,False
+489436,22142,Christmas craft white fairy,12,2009-12-01 09:06:00,1.45,13078.0,United Kingdom,17.4,1,Tuesday,False,False
+489436,22296,Heart ivory trellis large,12,2009-12-01 09:06:00,1.65,13078.0,United Kingdom,19.799999999999997,1,Tuesday,False,False
+489436,22295,Heart filigree dove large,12,2009-12-01 09:06:00,1.65,13078.0,United Kingdom,19.799999999999997,1,Tuesday,False,False
+489436,22109,Full english breakfast plate,16,2009-12-01 09:06:00,3.39,13078.0,United Kingdom,54.24,1,Tuesday,False,False
+489436,22107,Pizza plate in box,4,2009-12-01 09:06:00,3.75,13078.0,United Kingdom,15.0,1,Tuesday,False,False
+489436,22194,Black diner wall clock,2,2009-12-01 09:06:00,8.5,13078.0,United Kingdom,17.0,1,Tuesday,False,False
+489436,35004B,Set of 3 black flying ducks,12,2009-12-01 09:06:00,4.65,13078.0,United Kingdom,55.800000000000004,1,Tuesday,False,False
+489436,82582,Area patrolled metal sign,12,2009-12-01 09:06:00,2.1,13078.0,United Kingdom,25.200000000000003,1,Tuesday,False,False
+489436,21181,Please one person  metal sign,12,2009-12-01 09:06:00,2.1,13078.0,United Kingdom,25.200000000000003,1,Tuesday,False,False
+489436,21756,Bath building block word,3,2009-12-01 09:06:00,5.95,13078.0,United Kingdom,17.85,1,Tuesday,False,False
+489436,21333,Classic white frame,6,2009-12-01 09:06:00,2.95,13078.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489436,84596F,Small marshmallows pink bowl,8,2009-12-01 09:06:00,1.25,13078.0,United Kingdom,10.0,1,Tuesday,False,False
+489436,84596L,Biscuits small bowl light blue,8,2009-12-01 09:06:00,1.25,13078.0,United Kingdom,10.0,1,Tuesday,False,False
+489436,22111,Scottie dog hot water bottle,24,2009-12-01 09:06:00,4.25,13078.0,United Kingdom,102.0,1,Tuesday,False,False
+489437,22143,Christmas craft heart decorations,6,2009-12-01 09:08:00,2.1,15362.0,United Kingdom,12.600000000000001,1,Tuesday,False,False
+489437,22145,Christmas craft heart stocking,6,2009-12-01 09:08:00,2.1,15362.0,United Kingdom,12.600000000000001,1,Tuesday,False,False
+489437,22130,Party cone christmas decoration,12,2009-12-01 09:08:00,0.85,15362.0,United Kingdom,10.2,1,Tuesday,False,False
+489437,21364,Peace small wood letters,2,2009-12-01 09:08:00,6.75,15362.0,United Kingdom,13.5,1,Tuesday,False,False
+489437,21360,Joy large wood letters,1,2009-12-01 09:08:00,9.95,15362.0,United Kingdom,9.95,1,Tuesday,False,False
+489437,21351,Cinammon & orange wreath,2,2009-12-01 09:08:00,6.75,15362.0,United Kingdom,13.5,1,Tuesday,False,False
+489437,21352,Eucalyptus & pinecone  wreath,2,2009-12-01 09:08:00,6.75,15362.0,United Kingdom,13.5,1,Tuesday,False,False
+489437,35400,Wooden box advent calendar,2,2009-12-01 09:08:00,8.95,15362.0,United Kingdom,17.9,1,Tuesday,False,False
+489437,20695,Floral blue monster,3,2009-12-01 09:08:00,4.25,15362.0,United Kingdom,12.75,1,Tuesday,False,False
+489437,37370,Retro coffee mugs assorted,12,2009-12-01 09:08:00,1.25,15362.0,United Kingdom,15.0,1,Tuesday,False,False
+489437,10002,Inflatable political globe,12,2009-12-01 09:08:00,0.85,15362.0,United Kingdom,10.2,1,Tuesday,False,False
+489437,84507B,Stripes design monkey doll,6,2009-12-01 09:08:00,2.55,15362.0,United Kingdom,15.299999999999999,1,Tuesday,False,False
+489437,20703,Blue padded soft mobile,3,2009-12-01 09:08:00,4.25,15362.0,United Kingdom,12.75,1,Tuesday,False,False
+489437,21987,Pack of 6 skull paper cups,12,2009-12-01 09:08:00,0.65,15362.0,United Kingdom,7.800000000000001,1,Tuesday,False,False
+489437,21989,Pack of 20 skull paper napkins,12,2009-12-01 09:08:00,0.85,15362.0,United Kingdom,10.2,1,Tuesday,False,False
+489437,84970S,Hanging heart zinc t-light holder,12,2009-12-01 09:08:00,0.85,15362.0,United Kingdom,10.2,1,Tuesday,False,False
+489437,20971,Pink blue felt craft trinket box,12,2009-12-01 09:08:00,1.25,15362.0,United Kingdom,15.0,1,Tuesday,False,False
+489437,22271,Feltcraft doll rosie,6,2009-12-01 09:08:00,2.95,15362.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489437,22272,Feltcraft doll maria,6,2009-12-01 09:08:00,2.95,15362.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489437,22274,Feltcraft doll emily,6,2009-12-01 09:08:00,2.95,15362.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489437,21912,Vintage snakes & ladders,4,2009-12-01 09:08:00,3.75,15362.0,United Kingdom,15.0,1,Tuesday,False,False
+489437,22111,Scottie dog hot water bottle,3,2009-12-01 09:08:00,4.95,15362.0,United Kingdom,14.850000000000001,1,Tuesday,False,False
+489437,22112,Chocolate hot water bottle,3,2009-12-01 09:08:00,4.95,15362.0,United Kingdom,14.850000000000001,1,Tuesday,False,False
+489438,21329,Dinosaurs  writing set,28,2009-12-01 09:24:00,0.98,18102.0,United Kingdom,27.439999999999998,1,Tuesday,False,False
+489438,21252,Set of meadow  flower stickers,30,2009-12-01 09:24:00,1.69,18102.0,United Kingdom,50.699999999999996,1,Tuesday,False,False
+489438,21100,Charlie and lola charlotte bag,30,2009-12-01 09:24:00,1.15,18102.0,United Kingdom,34.5,1,Tuesday,False,False
+489438,21033,Jumbo bag charlie and lola toys,30,2009-12-01 09:24:00,2.0,18102.0,United Kingdom,60.0,1,Tuesday,False,False
+489438,20711,Jumbo bag toys,60,2009-12-01 09:24:00,1.3,18102.0,United Kingdom,78.0,1,Tuesday,False,False
+489438,21410,Country cottage  doorstop green,32,2009-12-01 09:24:00,2.5,18102.0,United Kingdom,80.0,1,Tuesday,False,False
+489438,21411,Gingham heart  doorstop red,32,2009-12-01 09:24:00,2.5,18102.0,United Kingdom,80.0,1,Tuesday,False,False
+489438,84031A,Charlie+lola red hot water bottle,56,2009-12-01 09:24:00,3.0,18102.0,United Kingdom,168.0,1,Tuesday,False,False
+489438,84031B,Charlie lola blue hot water bottle,56,2009-12-01 09:24:00,3.0,18102.0,United Kingdom,168.0,1,Tuesday,False,False
+489438,84032A,Charlie+lola pink hot water bottle,60,2009-12-01 09:24:00,1.9,18102.0,United Kingdom,114.0,1,Tuesday,False,False
+489438,84032B,Charlie + lola red hot water bottle,56,2009-12-01 09:24:00,1.9,18102.0,United Kingdom,106.39999999999999,1,Tuesday,False,False
+489438,84519A,Tomato charlie+lola coaster set,56,2009-12-01 09:24:00,2.15,18102.0,United Kingdom,120.39999999999999,1,Tuesday,False,False
+489438,84519B,Carrot charlie+lola coaster set,60,2009-12-01 09:24:00,2.4,18102.0,United Kingdom,144.0,1,Tuesday,False,False
+489438,85132A,Charlie + lola biscuits tins,60,2009-12-01 09:24:00,6.38,18102.0,United Kingdom,382.8,1,Tuesday,False,False
+489438,85132C,Charlie and lola figures tins,60,2009-12-01 09:24:00,6.4,18102.0,United Kingdom,384.0,1,Tuesday,False,False
+489438,85183A,Charlie & lola wastepaper bin blue,60,2009-12-01 09:24:00,2.4,18102.0,United Kingdom,144.0,1,Tuesday,False,False
+489438,85183B,Charlie & lola wastepaper bin flora,60,2009-12-01 09:24:00,2.4,18102.0,United Kingdom,144.0,1,Tuesday,False,False
+489439,22065,Christmas pudding trinket pot,12,2009-12-01 09:28:00,1.45,12682.0,France,17.4,1,Tuesday,False,False
+489439,22138,Baking set 9 piece retrospot,9,2009-12-01 09:28:00,4.95,12682.0,France,44.550000000000004,1,Tuesday,False,False
+489439,22139,Retro spot tea set ceramic 11 pc,9,2009-12-01 09:28:00,4.95,12682.0,France,44.550000000000004,1,Tuesday,False,False
+489439,22352,Lunchbox with cutlery retrospot,12,2009-12-01 09:28:00,2.55,12682.0,France,30.599999999999998,1,Tuesday,False,False
+489439,85014A,Black/blue dots ruffled umbrella,3,2009-12-01 09:28:00,5.95,12682.0,France,17.85,1,Tuesday,False,False
+489439,85014B,Red/white dots ruffled umbrella,3,2009-12-01 09:28:00,5.95,12682.0,France,17.85,1,Tuesday,False,False
+489439,16161P,Wrap english rose,25,2009-12-01 09:28:00,0.42,12682.0,France,10.5,1,Tuesday,False,False
+489439,16169N,Wrap blue russian folkart,25,2009-12-01 09:28:00,0.42,12682.0,France,10.5,1,Tuesday,False,False
+489439,21491,Set of three vintage gift wraps,6,2009-12-01 09:28:00,1.95,12682.0,France,11.7,1,Tuesday,False,False
+489439,22333,Retro sport party bag + sticker set,8,2009-12-01 09:28:00,1.65,12682.0,France,13.2,1,Tuesday,False,False
+489439,85216,Assorted cakes fridge magnets,12,2009-12-01 09:28:00,0.65,12682.0,France,7.800000000000001,1,Tuesday,False,False
+489439,21493,Vintage design gift tags,12,2009-12-01 09:28:00,0.85,12682.0,France,10.2,1,Tuesday,False,False
+489439,22130,Party cone christmas decoration,24,2009-12-01 09:28:00,0.85,12682.0,France,20.4,1,Tuesday,False,False
+489439,22064,Pink doughnut trinket pot,12,2009-12-01 09:28:00,1.65,12682.0,France,19.799999999999997,1,Tuesday,False,False
+489439,21731,Red toadstool led night light,24,2009-12-01 09:28:00,1.65,12682.0,France,39.599999999999994,1,Tuesday,False,False
+489439,85232B,Set/3 russian doll stacking tins,6,2009-12-01 09:28:00,4.95,12682.0,France,29.700000000000003,1,Tuesday,False,False
+489439,84691,Pack 20 dolly pegs,12,2009-12-01 09:28:00,0.85,12682.0,France,10.2,1,Tuesday,False,False
+489439,20749,Assorted colour mini cases,2,2009-12-01 09:28:00,7.95,12682.0,France,15.9,1,Tuesday,False,False
+489439,POST,Postage,3,2009-12-01 09:28:00,18.0,12682.0,France,54.0,1,Tuesday,False,False
+489440,22350,Cat bowl,8,2009-12-01 09:43:00,2.55,18087.0,United Kingdom,20.4,1,Tuesday,False,False
+489440,22349,"Dog bowl , chasing ball design",8,2009-12-01 09:43:00,3.75,18087.0,United Kingdom,30.0,1,Tuesday,False,False
+489441,22321,Bird decoration red spot,12,2009-12-01 09:44:00,0.72,18087.0,United Kingdom,8.64,1,Tuesday,False,False
+489441,22138,Baking set 9 piece retrospot,6,2009-12-01 09:44:00,4.25,18087.0,United Kingdom,25.5,1,Tuesday,False,False
+489441,84029E,Red woolly hottie white heart.,36,2009-12-01 09:44:00,2.95,18087.0,United Kingdom,106.2,1,Tuesday,False,False
+489441,22111,Scottie dog hot water bottle,48,2009-12-01 09:44:00,4.25,18087.0,United Kingdom,204.0,1,Tuesday,False,False
+489442,21955,Union jack guns & roses  doormat,2,2009-12-01 09:46:00,6.75,13635.0,United Kingdom,13.5,1,Tuesday,False,False
+489442,22111,Scottie dog hot water bottle,3,2009-12-01 09:46:00,4.95,13635.0,United Kingdom,14.850000000000001,1,Tuesday,False,False
+489442,22296,Heart ivory trellis large,12,2009-12-01 09:46:00,1.65,13635.0,United Kingdom,19.799999999999997,1,Tuesday,False,False
+489442,84899E,Yellow + brown bear felt purse kit,12,2009-12-01 09:46:00,1.25,13635.0,United Kingdom,15.0,1,Tuesday,False,False
+489442,22271,Feltcraft doll rosie,6,2009-12-01 09:46:00,2.95,13635.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489442,22272,Feltcraft doll maria,6,2009-12-01 09:46:00,2.95,13635.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489442,85123A,White hanging heart t-light holder,6,2009-12-01 09:46:00,2.95,13635.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489442,21582,Kings choice small tube matches,20,2009-12-01 09:46:00,1.65,13635.0,United Kingdom,33.0,1,Tuesday,False,False
+489442,21586,Kings choice giant tube matches,12,2009-12-01 09:46:00,2.55,13635.0,United Kingdom,30.599999999999998,1,Tuesday,False,False
+489442,21590,Kings choice cigar box matches,48,2009-12-01 09:46:00,1.25,13635.0,United Kingdom,60.0,1,Tuesday,False,False
+489442,22091,Empire tissue box,12,2009-12-01 09:46:00,1.25,13635.0,United Kingdom,15.0,1,Tuesday,False,False
+489442,84251J,"Greeting card, the black cat",12,2009-12-01 09:46:00,0.42,13635.0,United Kingdom,5.04,1,Tuesday,False,False
+489442,22024,Rainy ladies birthday card,12,2009-12-01 09:46:00,0.42,13635.0,United Kingdom,5.04,1,Tuesday,False,False
+489442,22026,Banquet birthday  card,12,2009-12-01 09:46:00,0.42,13635.0,United Kingdom,5.04,1,Tuesday,False,False
+489442,22029,Space boy birthday card,12,2009-12-01 09:46:00,0.42,13635.0,United Kingdom,5.04,1,Tuesday,False,False
+489442,22025,Ring of roses birthday card,12,2009-12-01 09:46:00,0.42,13635.0,United Kingdom,5.04,1,Tuesday,False,False
+489442,22031,Botanical lavender birthday card,12,2009-12-01 09:46:00,0.42,13635.0,United Kingdom,5.04,1,Tuesday,False,False
+489442,21428,Set3 book box green gingham flower,4,2009-12-01 09:46:00,4.25,13635.0,United Kingdom,17.0,1,Tuesday,False,False
+489442,21430,Set/3 red gingham rose storage box,4,2009-12-01 09:46:00,3.75,13635.0,United Kingdom,15.0,1,Tuesday,False,False
+489442,21916,Set 12 retro white chalk sticks,24,2009-12-01 09:46:00,0.42,13635.0,United Kingdom,10.08,1,Tuesday,False,False
+489442,21790,Vintage snap cards,12,2009-12-01 09:46:00,0.85,13635.0,United Kingdom,10.2,1,Tuesday,False,False
+489442,21888,Bingo set,8,2009-12-01 09:46:00,3.75,13635.0,United Kingdom,30.0,1,Tuesday,False,False
+489442,85178,Victorian sewing kit,12,2009-12-01 09:46:00,1.25,13635.0,United Kingdom,15.0,1,Tuesday,False,False
+489443,20754,Retro red spotty washing up gloves,6,2009-12-01 09:50:00,2.1,14110.0,United Kingdom,12.600000000000001,1,Tuesday,False,False
+489443,21035,Set/2 red spotty tea towels,12,2009-12-01 09:50:00,2.95,14110.0,United Kingdom,35.400000000000006,1,Tuesday,False,False
+489443,22041,"Record frame 7"" single size",48,2009-12-01 09:50:00,2.1,14110.0,United Kingdom,100.80000000000001,1,Tuesday,False,False
+489443,82001S,Vinyl record frame silver,24,2009-12-01 09:50:00,3.39,14110.0,United Kingdom,81.36,1,Tuesday,False,False
+489443,82580,Bathroom metal sign,12,2009-12-01 09:50:00,0.55,14110.0,United Kingdom,6.6000000000000005,1,Tuesday,False,False
+489443,85150,Ladies & gentlemen metal sign,12,2009-12-01 09:50:00,2.55,14110.0,United Kingdom,30.599999999999998,1,Tuesday,False,False
+489443,21041,Red spotty oven glove double,6,2009-12-01 09:50:00,2.95,14110.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489444,POST,Postage,1,2009-12-01 09:55:00,141.0,12636.0,Usa,141.0,1,Tuesday,False,False
+489445,35916C,Pink felt hanging heart w flower,12,2009-12-01 09:57:00,0.85,17519.0,United Kingdom,10.2,1,Tuesday,False,False
+489445,35916B,Blue felt hanging heart w flower,12,2009-12-01 09:57:00,0.85,17519.0,United Kingdom,10.2,1,Tuesday,False,False
+489445,22321,Bird decoration red spot,24,2009-12-01 09:57:00,0.85,17519.0,United Kingdom,20.4,1,Tuesday,False,False
+489445,22130,Party cone christmas decoration,12,2009-12-01 09:57:00,0.85,17519.0,United Kingdom,10.2,1,Tuesday,False,False
+489445,22180,Retro spot lamp,2,2009-12-01 09:57:00,9.95,17519.0,United Kingdom,19.9,1,Tuesday,False,False
+489445,22128,Party cones candy assorted,12,2009-12-01 09:57:00,1.25,17519.0,United Kingdom,15.0,1,Tuesday,False,False
+489445,22163,Heart string memo holder hanging,6,2009-12-01 09:57:00,2.95,17519.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489445,35951,Folkart bauble christmas decoration,48,2009-12-01 09:57:00,0.38,17519.0,United Kingdom,18.240000000000002,1,Tuesday,False,False
+489445,22253,6 crochet strawberries,12,2009-12-01 09:57:00,1.25,17519.0,United Kingdom,15.0,1,Tuesday,False,False
+489445,84988,Set of 72 pink heart paper doilies,12,2009-12-01 09:57:00,1.45,17519.0,United Kingdom,17.4,1,Tuesday,False,False
+489445,22219,Lovebird hanging decoration white,24,2009-12-01 09:57:00,0.85,17519.0,United Kingdom,20.4,1,Tuesday,False,False
+489445,18097C,White tall porcelain t-light holder,6,2009-12-01 09:57:00,2.55,17519.0,United Kingdom,15.299999999999999,1,Tuesday,False,False
+489445,22138,Baking set 9 piece retrospot,3,2009-12-01 09:57:00,4.95,17519.0,United Kingdom,14.850000000000001,1,Tuesday,False,False
+489445,21299,Edwardian toilet roll unit,1,2009-12-01 09:57:00,12.75,17519.0,United Kingdom,12.75,1,Tuesday,False,False
+489445,21099,Set/6 strawberry paper cups,24,2009-12-01 09:57:00,0.65,17519.0,United Kingdom,15.600000000000001,1,Tuesday,False,False
+489445,21085,Set/6 woodland paper cups,24,2009-12-01 09:57:00,0.65,17519.0,United Kingdom,15.600000000000001,1,Tuesday,False,False
+489445,21929,Jumbo bag pink vintage paisley,10,2009-12-01 09:57:00,1.95,17519.0,United Kingdom,19.5,1,Tuesday,False,False
+489445,22241,"Garland , wooden  "" happy easter""",24,2009-12-01 09:57:00,1.25,17519.0,United Kingdom,30.0,1,Tuesday,False,False
+489445,21091,Set/6 woodland paper plates,12,2009-12-01 09:57:00,0.85,17519.0,United Kingdom,10.2,1,Tuesday,False,False
+489446,21733,Red hanging heart t-light holder,32,2009-12-01 10:06:00,2.55,13758.0,United Kingdom,81.6,1,Tuesday,False,False
+489446,85123A,White hanging heart t-light holder,32,2009-12-01 10:06:00,2.55,13758.0,United Kingdom,81.6,1,Tuesday,False,False
+489446,22178,Victorian glass hanging t-light,12,2009-12-01 10:06:00,1.25,13758.0,United Kingdom,15.0,1,Tuesday,False,False
+489446,22125,Union jack hot water bottle,12,2009-12-01 10:06:00,5.95,13758.0,United Kingdom,71.4,1,Tuesday,False,False
+489446,21671,Red spot ceramic drawer knob,12,2009-12-01 10:06:00,1.25,13758.0,United Kingdom,15.0,1,Tuesday,False,False
+489446,22086,Paper chain kit 50's christmas,12,2009-12-01 10:06:00,2.95,13758.0,United Kingdom,35.400000000000006,1,Tuesday,False,False
+489446,22111,Scottie dog hot water bottle,6,2009-12-01 10:06:00,4.95,13758.0,United Kingdom,29.700000000000003,1,Tuesday,False,False
+489446,22112,Chocolate hot water bottle,12,2009-12-01 10:06:00,4.95,13758.0,United Kingdom,59.400000000000006,1,Tuesday,False,False
+489446,22294,Heart filigree dove  small,24,2009-12-01 10:06:00,1.25,13758.0,United Kingdom,30.0,1,Tuesday,False,False
+489446,22199,Frying pan red polkadot,4,2009-12-01 10:06:00,4.25,13758.0,United Kingdom,17.0,1,Tuesday,False,False
+489446,22083,Paper chain kit retro spot,24,2009-12-01 10:06:00,2.95,13758.0,United Kingdom,70.80000000000001,1,Tuesday,False,False
+489446,22114,Hot water bottle tea and sympathy,12,2009-12-01 10:06:00,3.95,13758.0,United Kingdom,47.400000000000006,1,Tuesday,False,False
+489446,21485,Red spot heart hot water bottle,12,2009-12-01 10:06:00,4.95,13758.0,United Kingdom,59.400000000000006,1,Tuesday,False,False
+489446,21928,Jumbo bag scandinavian paisley,10,2009-12-01 10:06:00,1.95,13758.0,United Kingdom,19.5,1,Tuesday,False,False
+489446,21929,Jumbo bag pink vintage paisley,10,2009-12-01 10:06:00,1.95,13758.0,United Kingdom,19.5,1,Tuesday,False,False
+489446,85099B,Jumbo bag red white spotty,20,2009-12-01 10:06:00,1.95,13758.0,United Kingdom,39.0,1,Tuesday,False,False
+489446,22356,"Charlotte bag , pink/white spots",10,2009-12-01 10:06:00,0.85,13758.0,United Kingdom,8.5,1,Tuesday,False,False
+489446,20724,Red spotty charlotte bag,10,2009-12-01 10:06:00,0.85,13758.0,United Kingdom,8.5,1,Tuesday,False,False
+489446,21590,Kings choice cigar box matches,24,2009-12-01 10:06:00,1.25,13758.0,United Kingdom,30.0,1,Tuesday,False,False
+489446,21592,Retro spot  cigar box matches,24,2009-12-01 10:06:00,1.25,13758.0,United Kingdom,30.0,1,Tuesday,False,False
+489446,20725,Lunch bag red spotty,10,2009-12-01 10:06:00,1.65,13758.0,United Kingdom,16.5,1,Tuesday,False,False
+489446,20728,Lunch bag cars blue,10,2009-12-01 10:06:00,1.65,13758.0,United Kingdom,16.5,1,Tuesday,False,False
+489446,20726,Lunch bag woodland,10,2009-12-01 10:06:00,1.65,13758.0,United Kingdom,16.5,1,Tuesday,False,False
+489446,20754,Retro red spotty washing up gloves,12,2009-12-01 10:06:00,2.1,13758.0,United Kingdom,25.200000000000003,1,Tuesday,False,False
+489446,21217,Red spotty round cake tins,12,2009-12-01 10:06:00,8.95,13758.0,United Kingdom,107.39999999999999,1,Tuesday,False,False
+489446,22195,Large heart measuring spoons,12,2009-12-01 10:06:00,1.65,13758.0,United Kingdom,19.799999999999997,1,Tuesday,False,False
+489446,85066,Cream sweetheart mini chest,2,2009-12-01 10:06:00,12.75,13758.0,United Kingdom,25.5,1,Tuesday,False,False
+489447,POST,Postage,1,2009-12-01 10:10:00,130.0,12362.0,Belgium,130.0,1,Tuesday,False,False
+489448,20827,Gold aperitif glass,48,2009-12-01 10:18:00,2.12,15413.0,United Kingdom,101.76,1,Tuesday,False,False
+489448,20825,Gold wine glass,48,2009-12-01 10:18:00,3.39,15413.0,United Kingdom,162.72,1,Tuesday,False,False
+489448,20823,Gold wine goblet,48,2009-12-01 10:18:00,4.25,15413.0,United Kingdom,204.0,1,Tuesday,False,False
+489448,20826,Silver aperitif glass,48,2009-12-01 10:18:00,2.12,15413.0,United Kingdom,101.76,1,Tuesday,False,False
+489450,22087,Paper bunting white lace,12,2009-12-01 10:36:00,2.95,16321.0,Australia,35.400000000000006,1,Tuesday,False,False
+489450,85206A,Cream felt easter egg basket,6,2009-12-01 10:36:00,1.65,16321.0,Australia,9.899999999999999,1,Tuesday,False,False
+489450,21895,Potting shed sow 'n' grow set,4,2009-12-01 10:36:00,4.25,16321.0,Australia,17.0,1,Tuesday,False,False
+489450,21896,Potting shed twine,6,2009-12-01 10:36:00,2.1,16321.0,Australia,12.600000000000001,1,Tuesday,False,False
+489450,22083,Paper chain kit retro spot,12,2009-12-01 10:36:00,2.95,16321.0,Australia,35.400000000000006,1,Tuesday,False,False
+489450,21871,Save the planet mug,12,2009-12-01 10:36:00,1.25,16321.0,Australia,15.0,1,Tuesday,False,False
+489450,84946,Antique silver tea glass etched,12,2009-12-01 10:36:00,1.25,16321.0,Australia,15.0,1,Tuesday,False,False
+489450,84970S,Hanging heart zinc t-light holder,24,2009-12-01 10:36:00,0.85,16321.0,Australia,20.4,1,Tuesday,False,False
+489450,22090,Paper bunting retro spots,12,2009-12-01 10:36:00,2.95,16321.0,Australia,35.400000000000006,1,Tuesday,False,False
+489460,79323P,Pink cherry lights,8,2009-12-01 10:46:00,6.75,16167.0,United Kingdom,54.0,1,Tuesday,False,False
+489460,21977,Pack of 60 pink paisley cake cases,24,2009-12-01 10:46:00,0.55,16167.0,United Kingdom,13.200000000000001,1,Tuesday,False,False
+489460,84991,60 teatime fairy cake cases,24,2009-12-01 10:46:00,0.55,16167.0,United Kingdom,13.200000000000001,1,Tuesday,False,False
+489460,22274,Feltcraft doll emily,6,2009-12-01 10:46:00,2.95,16167.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489460,22273,Feltcraft doll molly,6,2009-12-01 10:46:00,2.95,16167.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489460,22179,Set 10 lights night owl,4,2009-12-01 10:46:00,6.75,16167.0,United Kingdom,27.0,1,Tuesday,False,False
+489460,22320,Birds mobile vintage design,3,2009-12-01 10:46:00,5.95,16167.0,United Kingdom,17.85,1,Tuesday,False,False
+489460,22232,3 piece jigsaw toadstools,8,2009-12-01 10:46:00,1.65,16167.0,United Kingdom,13.2,1,Tuesday,False,False
+489460,84598,Boys alphabet iron on patches,576,2009-12-01 10:46:00,0.21,16167.0,United Kingdom,120.96,1,Tuesday,False,False
+489460,79323W,White cherry lights,8,2009-12-01 10:46:00,6.75,16167.0,United Kingdom,54.0,1,Tuesday,False,False
+489460,22138,Baking set 9 piece retrospot,3,2009-12-01 10:46:00,4.95,16167.0,United Kingdom,14.850000000000001,1,Tuesday,False,False
+489460,22139,Retro spot tea set ceramic 11 pc,3,2009-12-01 10:46:00,4.95,16167.0,United Kingdom,14.850000000000001,1,Tuesday,False,False
+489460,79323S,Silver cherry lights,4,2009-12-01 10:46:00,6.75,16167.0,United Kingdom,27.0,1,Tuesday,False,False
+489460,21731,Red toadstool led night light,12,2009-12-01 10:46:00,1.65,16167.0,United Kingdom,19.799999999999997,1,Tuesday,False,False
+489460,84568,Girls alphabet iron on patches,288,2009-12-01 10:46:00,0.21,16167.0,United Kingdom,60.48,1,Tuesday,False,False
+489461,21668,Red stripe ceramic drawer knob,24,2009-12-01 10:49:00,1.25,17865.0,United Kingdom,30.0,1,Tuesday,False,False
+489461,21669,Blue stripe ceramic drawer knob,24,2009-12-01 10:49:00,1.25,17865.0,United Kingdom,30.0,1,Tuesday,False,False
+489461,21670,Blue spot ceramic drawer knob,24,2009-12-01 10:49:00,1.25,17865.0,United Kingdom,30.0,1,Tuesday,False,False
+489461,21671,Red spot ceramic drawer knob,24,2009-12-01 10:49:00,1.25,17865.0,United Kingdom,30.0,1,Tuesday,False,False
+489461,21672,White spot red ceramic drawer knob,24,2009-12-01 10:49:00,1.25,17865.0,United Kingdom,30.0,1,Tuesday,False,False
+489461,21673,White spot blue ceramic drawer knob,24,2009-12-01 10:49:00,1.25,17865.0,United Kingdom,30.0,1,Tuesday,False,False
+489461,22125,Union jack hot water bottle,3,2009-12-01 10:49:00,5.95,17865.0,United Kingdom,17.85,1,Tuesday,False,False
+489461,21232,Strawberry ceramic trinket box,48,2009-12-01 10:49:00,1.25,17865.0,United Kingdom,60.0,1,Tuesday,False,False
+489461,85071A,Blue charlie+lola personal doorsign,6,2009-12-01 10:49:00,2.95,17865.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489461,85071B,Red charlie+lola personal doorsign,6,2009-12-01 10:49:00,2.95,17865.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489461,21161,Keep out boys door hanger,12,2009-12-01 10:49:00,1.45,17865.0,United Kingdom,17.4,1,Tuesday,False,False
+489461,21162,Toxic area  door hanger,12,2009-12-01 10:49:00,1.45,17865.0,United Kingdom,17.4,1,Tuesday,False,False
+489461,21248,Door hanger  mum + dads room,12,2009-12-01 10:49:00,1.45,17865.0,United Kingdom,17.4,1,Tuesday,False,False
+489461,21159,Moody boy  door hanger,12,2009-12-01 10:49:00,1.45,17865.0,United Kingdom,17.4,1,Tuesday,False,False
+489461,82582,Area patrolled metal sign,12,2009-12-01 10:49:00,2.1,17865.0,United Kingdom,25.200000000000003,1,Tuesday,False,False
+489461,21181,Please one person  metal sign,6,2009-12-01 10:49:00,2.1,17865.0,United Kingdom,12.600000000000001,1,Tuesday,False,False
+489461,85150,Ladies & gentlemen metal sign,6,2009-12-01 10:49:00,2.55,17865.0,United Kingdom,15.299999999999999,1,Tuesday,False,False
+489461,82494L,Wooden frame antique white,6,2009-12-01 10:49:00,2.95,17865.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489461,82486,Wood s/3 cabinet ant white finish,2,2009-12-01 10:49:00,7.95,17865.0,United Kingdom,15.9,1,Tuesday,False,False
+489461,82483,Wood 2 drawer cabinet white finish,3,2009-12-01 10:49:00,5.95,17865.0,United Kingdom,17.85,1,Tuesday,False,False
+489462,90200D,Pink sweetheart bracelet,3,2009-12-01 10:49:00,4.25,17592.0,United Kingdom,12.75,1,Tuesday,False,False
+489462,90200E,Green sweetheart bracelet,3,2009-12-01 10:49:00,4.25,17592.0,United Kingdom,12.75,1,Tuesday,False,False
+489461,21212,Pack of 72 retro spot cake cases,24,2009-12-01 10:49:00,0.55,17865.0,United Kingdom,13.200000000000001,1,Tuesday,False,False
+489461,84991,60 teatime fairy cake cases,24,2009-12-01 10:49:00,0.55,17865.0,United Kingdom,13.200000000000001,1,Tuesday,False,False
+489461,22180,Retro spot lamp,2,2009-12-01 10:49:00,9.95,17865.0,United Kingdom,19.9,1,Tuesday,False,False
+489461,72756,Fairy cake candles,27,2009-12-01 10:49:00,1.49,17865.0,United Kingdom,40.23,1,Tuesday,False,False
+489461,22063,Ceramic bowl with strawberry design,6,2009-12-01 10:49:00,2.95,17865.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489461,37450,Ceramic cake bowl + hanging cakes,6,2009-12-01 10:49:00,2.95,17865.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489462,90200A,Purple sweetheart bracelet,3,2009-12-01 10:49:00,4.25,17592.0,United Kingdom,12.75,1,Tuesday,False,False
+489462,90200C,Blue sweetheart bracelet,3,2009-12-01 10:49:00,4.25,17592.0,United Kingdom,12.75,1,Tuesday,False,False
+489462,90200B,Black sweetheart bracelet,3,2009-12-01 10:49:00,4.25,17592.0,United Kingdom,12.75,1,Tuesday,False,False
+489462,90185C,Black diamante expandable ring,3,2009-12-01 10:49:00,4.25,17592.0,United Kingdom,12.75,1,Tuesday,False,False
+489462,90185B,Amethyst diamante expandable ring,3,2009-12-01 10:49:00,4.25,17592.0,United Kingdom,12.75,1,Tuesday,False,False
+489462,90003C,Midnight blue pair heart hair slide,3,2009-12-01 10:49:00,3.75,17592.0,United Kingdom,11.25,1,Tuesday,False,False
+489462,90003D,Crystal pair heart hair slides,3,2009-12-01 10:49:00,3.75,17592.0,United Kingdom,11.25,1,Tuesday,False,False
+489462,90003B,Rose colour pair heart hair slides,3,2009-12-01 10:49:00,3.75,17592.0,United Kingdom,11.25,1,Tuesday,False,False
+489462,90209C,Pink enamel+glass hair comb,3,2009-12-01 10:49:00,2.1,17592.0,United Kingdom,6.300000000000001,1,Tuesday,False,False
+489462,90209A,Purple enamel+glass hair comb,3,2009-12-01 10:49:00,2.1,17592.0,United Kingdom,6.300000000000001,1,Tuesday,False,False
+489462,90082D,Diamante bow brooch black colour,2,2009-12-01 10:49:00,6.35,17592.0,United Kingdom,12.7,1,Tuesday,False,False
+489465,21707,"Folding umbrella , black/blue  spot",12,2009-12-01 10:52:00,4.95,13767.0,United Kingdom,59.400000000000006,1,Tuesday,False,False
+489465,21710,Folding umbrella  pink/white  spot,12,2009-12-01 10:52:00,4.95,13767.0,United Kingdom,59.400000000000006,1,Tuesday,False,False
+489465,21708,Folding umbrella  cream/multi  spot,12,2009-12-01 10:52:00,4.95,13767.0,United Kingdom,59.400000000000006,1,Tuesday,False,False
+489465,21706,"Folding umbrella , red/white spot",12,2009-12-01 10:52:00,4.95,13767.0,United Kingdom,59.400000000000006,1,Tuesday,False,False
+489465,21711,Folding umbrella  white/red  spot,12,2009-12-01 10:52:00,4.95,13767.0,United Kingdom,59.400000000000006,1,Tuesday,False,False
+489465,20747,Piccadilly tea set,4,2009-12-01 10:52:00,14.95,13767.0,United Kingdom,59.8,1,Tuesday,False,False
+489465,22125,Union jack hot water bottle,12,2009-12-01 10:52:00,5.95,13767.0,United Kingdom,71.4,1,Tuesday,False,False
+489465,85123A,White hanging heart t-light holder,64,2009-12-01 10:52:00,2.55,13767.0,United Kingdom,163.2,1,Tuesday,False,False
+489465,21733,Red hanging heart t-light holder,20,2009-12-01 10:52:00,2.95,13767.0,United Kingdom,59.0,1,Tuesday,False,False
+489465,20752,Retro blue spotty washing up gloves,8,2009-12-01 10:52:00,2.1,13767.0,United Kingdom,16.8,1,Tuesday,False,False
+489465,20753,Retro pink spot washing up gloves,8,2009-12-01 10:52:00,2.1,13767.0,United Kingdom,16.8,1,Tuesday,False,False
+489465,20754,Retro red spotty washing up gloves,8,2009-12-01 10:52:00,2.1,13767.0,United Kingdom,16.8,1,Tuesday,False,False
+489465,20751,Funky washing up gloves assorted,12,2009-12-01 10:52:00,2.1,13767.0,United Kingdom,25.200000000000003,1,Tuesday,False,False
+489465,48185,Door mat fairy cake,4,2009-12-01 10:52:00,6.75,13767.0,United Kingdom,27.0,1,Tuesday,False,False
+489465,22114,Hot water bottle tea and sympathy,12,2009-12-01 10:52:00,3.95,13767.0,United Kingdom,47.400000000000006,1,Tuesday,False,False
+489465,21481,Fawn blue hot water bottle,8,2009-12-01 10:52:00,2.95,13767.0,United Kingdom,23.6,1,Tuesday,False,False
+489465,85042,Antique lily fairy lights,24,2009-12-01 10:52:00,4.25,13767.0,United Kingdom,102.0,1,Tuesday,False,False
+489465,72760B,Vintage cream 3 basket cake stand,4,2009-12-01 10:52:00,9.95,13767.0,United Kingdom,39.8,1,Tuesday,False,False
+489465,84879,Assorted colour bird ornament,160,2009-12-01 10:52:00,1.45,13767.0,United Kingdom,232.0,1,Tuesday,False,False
+489488,84031B,Charlie lola blue hot water bottle,1,2009-12-01 10:59:00,4.65,17238.0,United Kingdom,4.65,1,Tuesday,False,False
+489488,84032A,Charlie+lola pink hot water bottle,1,2009-12-01 10:59:00,2.95,17238.0,United Kingdom,2.95,1,Tuesday,False,False
+489488,84032B,Charlie + lola red hot water bottle,1,2009-12-01 10:59:00,2.95,17238.0,United Kingdom,2.95,1,Tuesday,False,False
+489488,22125,Union jack hot water bottle,2,2009-12-01 10:59:00,5.95,17238.0,United Kingdom,11.9,1,Tuesday,False,False
+489488,21482,Mushroom blue hot water bottle,2,2009-12-01 10:59:00,2.95,17238.0,United Kingdom,5.9,1,Tuesday,False,False
+489488,21484,Chick grey hot water bottle,3,2009-12-01 10:59:00,3.45,17238.0,United Kingdom,10.350000000000001,1,Tuesday,False,False
+489488,20967,Grey floral feltcraft shoulder bag,1,2009-12-01 10:59:00,3.75,17238.0,United Kingdom,3.75,1,Tuesday,False,False
+489488,20970,Pink floral feltcraft shoulder bag,2,2009-12-01 10:59:00,3.75,17238.0,United Kingdom,7.5,1,Tuesday,False,False
+489488,21100,Charlie and lola charlotte bag,2,2009-12-01 10:59:00,1.65,17238.0,United Kingdom,3.3,1,Tuesday,False,False
+489488,84582,Pink crochet cat with scarf,2,2009-12-01 10:59:00,4.25,17238.0,United Kingdom,8.5,1,Tuesday,False,False
+489488,20972,Pink cream felt craft trinket box,3,2009-12-01 10:59:00,1.25,17238.0,United Kingdom,3.75,1,Tuesday,False,False
+489488,20971,Pink blue felt craft trinket box,1,2009-12-01 10:59:00,1.25,17238.0,United Kingdom,1.25,1,Tuesday,False,False
+489488,84327A,Pink jumper larry the lamb,2,2009-12-01 10:59:00,2.1,17238.0,United Kingdom,4.2,1,Tuesday,False,False
+489488,21490,Set of three 50's gift wraps,3,2009-12-01 10:59:00,1.95,17238.0,United Kingdom,5.85,1,Tuesday,False,False
+489488,21063,Party invites jazz hearts,4,2009-12-01 10:59:00,0.85,17238.0,United Kingdom,3.4,1,Tuesday,False,False
+489488,21058,Party invites woodland,3,2009-12-01 10:59:00,0.85,17238.0,United Kingdom,2.55,1,Tuesday,False,False
+489488,22086,Paper chain kit 50's christmas,5,2009-12-01 10:59:00,2.95,17238.0,United Kingdom,14.75,1,Tuesday,False,False
+489488,84997D,Pink 3 piece mini dots cutlery set,4,2009-12-01 10:59:00,3.75,17238.0,United Kingdom,15.0,1,Tuesday,False,False
+489488,84997C,Blue 3 piece mini dots cutlery set,4,2009-12-01 10:59:00,3.75,17238.0,United Kingdom,15.0,1,Tuesday,False,False
+489488,22301,Coffee mug cat + bird design,2,2009-12-01 10:59:00,2.55,17238.0,United Kingdom,5.1,1,Tuesday,False,False
+489488,22300,Coffee mug dog + ball design,3,2009-12-01 10:59:00,2.55,17238.0,United Kingdom,7.6499999999999995,1,Tuesday,False,False
+489488,21493,Vintage design gift tags,6,2009-12-01 10:59:00,0.85,17238.0,United Kingdom,5.1,1,Tuesday,False,False
+489488,21231,Sweetheart ceramic trinket box,4,2009-12-01 10:59:00,1.25,17238.0,United Kingdom,5.0,1,Tuesday,False,False
+489488,20870,Opulent velvet candle in box,6,2009-12-01 10:59:00,2.1,17238.0,United Kingdom,12.600000000000001,1,Tuesday,False,False
+489488,90121B,Vintage rose bead bracelet blue,4,2009-12-01 10:59:00,4.25,17238.0,United Kingdom,17.0,1,Tuesday,False,False
+489488,90175A,White glass chunky charm bracelet,2,2009-12-01 10:59:00,8.95,17238.0,United Kingdom,17.9,1,Tuesday,False,False
+489488,90195B,Black gemstone bracelet,2,2009-12-01 10:59:00,8.95,17238.0,United Kingdom,17.9,1,Tuesday,False,False
+489488,90062,Carnival bracelet,2,2009-12-01 10:59:00,12.75,17238.0,United Kingdom,25.5,1,Tuesday,False,False
+489488,21930,Jumbo storage bag skulls,2,2009-12-01 10:59:00,1.95,17238.0,United Kingdom,3.9,1,Tuesday,False,False
+489505,21472,Ladybird + bee raffia food cover,6,2009-12-01 11:17:00,3.75,15712.0,United Kingdom,22.5,1,Tuesday,False,False
+489505,85099B,Jumbo bag red white spotty,10,2009-12-01 11:17:00,1.95,15712.0,United Kingdom,19.5,1,Tuesday,False,False
+489505,48185,Door mat fairy cake,10,2009-12-01 11:17:00,5.95,15712.0,United Kingdom,59.5,1,Tuesday,False,False
+489505,47566B,Tea time party bunting,5,2009-12-01 11:17:00,4.65,15712.0,United Kingdom,23.25,1,Tuesday,False,False
+489505,21929,Jumbo bag pink vintage paisley,10,2009-12-01 11:17:00,1.95,15712.0,United Kingdom,19.5,1,Tuesday,False,False
+489505,22139,Retro spot tea set ceramic 11 pc,6,2009-12-01 11:17:00,4.95,15712.0,United Kingdom,29.700000000000003,1,Tuesday,False,False
+489505,22086,Paper chain kit 50's christmas,6,2009-12-01 11:17:00,2.95,15712.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489505,22275,Weekend bag vintage rose paisley,4,2009-12-01 11:17:00,8.5,15712.0,United Kingdom,34.0,1,Tuesday,False,False
+489505,22138,Baking set 9 piece retrospot,3,2009-12-01 11:17:00,4.95,15712.0,United Kingdom,14.850000000000001,1,Tuesday,False,False
+489505,21479,White skull hot water bottle,4,2009-12-01 11:17:00,3.75,15712.0,United Kingdom,15.0,1,Tuesday,False,False
+489514,21791,Vintage heads and tails card game,72,2009-12-01 11:21:00,1.06,15311.0,United Kingdom,76.32000000000001,1,Tuesday,False,False
+489514,84032A,Charlie+lola pink hot water bottle,36,2009-12-01 11:21:00,2.55,15311.0,United Kingdom,91.8,1,Tuesday,False,False
+489514,85042,Antique lily fairy lights,24,2009-12-01 11:21:00,4.25,15311.0,United Kingdom,102.0,1,Tuesday,False,False
+489514,71477,Colour glass. star t-light holder,24,2009-12-01 11:21:00,2.75,15311.0,United Kingdom,66.0,1,Tuesday,False,False
+489514,37449,Ceramic cake stand + hanging cakes,8,2009-12-01 11:21:00,8.5,15311.0,United Kingdom,68.0,1,Tuesday,False,False
+489514,37446,Mini cake stand with hanging cakes,32,2009-12-01 11:21:00,1.25,15311.0,United Kingdom,40.0,1,Tuesday,False,False
+489514,21955,Union jack guns & roses  doormat,10,2009-12-01 11:21:00,5.95,15311.0,United Kingdom,59.5,1,Tuesday,False,False
+489514,21258,Victorian sewing box large,8,2009-12-01 11:21:00,10.95,15311.0,United Kingdom,87.6,1,Tuesday,False,False
+489514,20892,Set/3 tall glass candle holder pink,8,2009-12-01 11:21:00,3.95,15311.0,United Kingdom,31.6,1,Tuesday,False,False
+489514,47591D,Pink fairy cake child's apron,50,2009-12-01 11:21:00,1.65,15311.0,United Kingdom,82.5,1,Tuesday,False,False
+489514,21867,Pink union jack  luggage tag,1,2009-12-01 11:21:00,1.25,15311.0,United Kingdom,1.25,1,Tuesday,False,False
+489514,21041,Red spotty oven glove double,5,2009-12-01 11:21:00,2.95,15311.0,United Kingdom,14.75,1,Tuesday,False,False
+489514,82551,Laundry 15c metal sign,2,2009-12-01 11:21:00,1.25,15311.0,United Kingdom,2.5,1,Tuesday,False,False
+489514,82567,"Airline lounge,metal sign",1,2009-12-01 11:21:00,2.1,15311.0,United Kingdom,2.1,1,Tuesday,False,False
+489514,21161,Keep out boys door hanger,3,2009-12-01 11:21:00,1.45,15311.0,United Kingdom,4.35,1,Tuesday,False,False
+489514,82613D,Metal sign cupcake single hook,2,2009-12-01 11:21:00,1.25,15311.0,United Kingdom,2.5,1,Tuesday,False,False
+489514,21179,No junk mail metal sign,2,2009-12-01 11:21:00,1.25,15311.0,United Kingdom,2.5,1,Tuesday,False,False
+489514,21865,Pink union jack  passport cover,3,2009-12-01 11:21:00,2.1,15311.0,United Kingdom,6.300000000000001,1,Tuesday,False,False
+489514,72783,Black sil't squ candle plate,2,2009-12-01 11:21:00,2.1,15311.0,United Kingdom,4.2,1,Tuesday,False,False
+489514,20719,Woodland charlotte bag,3,2009-12-01 11:21:00,0.85,15311.0,United Kingdom,2.55,1,Tuesday,False,False
+489514,21869,Potting shed coffee mug,2,2009-12-01 11:21:00,1.25,15311.0,United Kingdom,2.5,1,Tuesday,False,False
+489514,21876,Pottering mug,2,2009-12-01 11:21:00,1.25,15311.0,United Kingdom,2.5,1,Tuesday,False,False
+489514,20754,Retro red spotty washing up gloves,3,2009-12-01 11:21:00,2.1,15311.0,United Kingdom,6.300000000000001,1,Tuesday,False,False
+489514,84849B,Fairy soap soap holder,2,2009-12-01 11:21:00,1.69,15311.0,United Kingdom,3.38,1,Tuesday,False,False
+489514,21864,Union jack flag passport cover,5,2009-12-01 11:21:00,2.1,15311.0,United Kingdom,10.5,1,Tuesday,False,False
+489514,21470,Flower vine raffia food cover,2,2009-12-01 11:21:00,3.75,15311.0,United Kingdom,7.5,1,Tuesday,False,False
+489514,20897,Vintage notebook paris days,2,2009-12-01 11:21:00,2.95,15311.0,United Kingdom,5.9,1,Tuesday,False,False
+489514,44230,Square mirror curtain,1,2009-12-01 11:21:00,7.95,15311.0,United Kingdom,7.95,1,Tuesday,False,False
+489514,37485,English rose tea set in gift box,2,2009-12-01 11:21:00,4.65,15311.0,United Kingdom,9.3,1,Tuesday,False,False
+489514,84997A,Green 3 piece mini dots cutlery set,3,2009-12-01 11:21:00,3.75,15311.0,United Kingdom,11.25,1,Tuesday,False,False
+489514,21245,Green  spotty plate,3,2009-12-01 11:21:00,1.69,15311.0,United Kingdom,5.07,1,Tuesday,False,False
+489514,21241,Green spotty cup,3,2009-12-01 11:21:00,0.85,15311.0,United Kingdom,2.55,1,Tuesday,False,False
+489517,21705,Bag 500g swirly marbles,1,2009-12-01 11:34:00,1.65,16329.0,United Kingdom,1.65,1,Tuesday,False,False
+489517,21913,Vintage seaside jigsaw puzzles,1,2009-12-01 11:34:00,3.75,16329.0,United Kingdom,3.75,1,Tuesday,False,False
+489517,21912,Vintage snakes & ladders,1,2009-12-01 11:34:00,3.75,16329.0,United Kingdom,3.75,1,Tuesday,False,False
+489517,16207A,Pink strawberry handbag,2,2009-12-01 11:34:00,2.95,16329.0,United Kingdom,5.9,1,Tuesday,False,False
+489517,21821,Glitter star garland with bells,1,2009-12-01 11:34:00,3.75,16329.0,United Kingdom,3.75,1,Tuesday,False,False
+489517,85123A,White hanging heart t-light holder,1,2009-12-01 11:34:00,2.95,16329.0,United Kingdom,2.95,1,Tuesday,False,False
+489517,22319,Hairclips forties fabric assorted,12,2009-12-01 11:34:00,0.65,16329.0,United Kingdom,7.800000000000001,1,Tuesday,False,False
+489517,22130,Party cone christmas decoration,6,2009-12-01 11:34:00,0.85,16329.0,United Kingdom,5.1,1,Tuesday,False,False
+489517,21584,Retro spot small tube matches,20,2009-12-01 11:34:00,1.65,16329.0,United Kingdom,33.0,1,Tuesday,False,False
+489517,20972,Pink cream felt craft trinket box,1,2009-12-01 11:34:00,1.25,16329.0,United Kingdom,1.25,1,Tuesday,False,False
+489517,21791,Vintage heads and tails card game,6,2009-12-01 11:34:00,1.25,16329.0,United Kingdom,7.5,1,Tuesday,False,False
+489517,21790,Vintage snap cards,4,2009-12-01 11:34:00,0.85,16329.0,United Kingdom,3.4,1,Tuesday,False,False
+489517,21931,Jumbo storage bag suki,1,2009-12-01 11:34:00,1.95,16329.0,United Kingdom,1.95,1,Tuesday,False,False
+489517,20711,Jumbo bag toys,1,2009-12-01 11:34:00,1.95,16329.0,United Kingdom,1.95,1,Tuesday,False,False
+489517,47591A,Carousel des child's apron,1,2009-12-01 11:34:00,1.65,16329.0,United Kingdom,1.65,1,Tuesday,False,False
+489517,84997B,Red 3 piece mini dots cutlery set,12,2009-12-01 11:34:00,3.75,16329.0,United Kingdom,45.0,1,Tuesday,False,False
+489517,84997A,Green 3 piece mini dots cutlery set,12,2009-12-01 11:34:00,3.75,16329.0,United Kingdom,45.0,1,Tuesday,False,False
+489517,21491,Set of three vintage gift wraps,1,2009-12-01 11:34:00,1.95,16329.0,United Kingdom,1.95,1,Tuesday,False,False
+489517,22122,Set of 2 fancy font tea towels,12,2009-12-01 11:34:00,2.95,16329.0,United Kingdom,35.400000000000006,1,Tuesday,False,False
+489517,20971,Pink blue felt craft trinket box,1,2009-12-01 11:34:00,1.25,16329.0,United Kingdom,1.25,1,Tuesday,False,False
+489517,21252,Set of meadow  flower stickers,1,2009-12-01 11:34:00,2.95,16329.0,United Kingdom,2.95,1,Tuesday,False,False
+489517,21837,Cross stitch alphabet cushion cover,2,2009-12-01 11:34:00,5.95,16329.0,United Kingdom,11.9,1,Tuesday,False,False
+489517,84951A,S/4 pistachio lovebird coasters,1,2009-12-01 11:34:00,2.55,16329.0,United Kingdom,2.55,1,Tuesday,False,False
+489517,22335,Heart decoration painted zinc,1,2009-12-01 11:34:00,0.65,16329.0,United Kingdom,0.65,1,Tuesday,False,False
+489517,85129A,"White pearl beaded heart, small",1,2009-12-01 11:34:00,1.25,16329.0,United Kingdom,1.25,1,Tuesday,False,False
+489517,84791,Gingham heart decoration,1,2009-12-01 11:34:00,2.95,16329.0,United Kingdom,2.95,1,Tuesday,False,False
+489517,21244,Blue  spotty plate,4,2009-12-01 11:34:00,1.69,16329.0,United Kingdom,6.76,1,Tuesday,False,False
+489517,20675,Blue spotty bowl,4,2009-12-01 11:34:00,1.25,16329.0,United Kingdom,5.0,1,Tuesday,False,False
+489519,22086,Paper chain kit 50's christmas,12,2009-12-01 11:37:00,2.95,17700.0,United Kingdom,35.400000000000006,1,Tuesday,False,False
+489519,85123A,White hanging heart t-light holder,32,2009-12-01 11:37:00,2.55,17700.0,United Kingdom,81.6,1,Tuesday,False,False
+489519,82616B,Frappucino scarf knitting kit,6,2009-12-01 11:37:00,2.95,17700.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489519,22276,Wash bag vintage rose paisley,6,2009-12-01 11:37:00,2.55,17700.0,United Kingdom,15.299999999999999,1,Tuesday,False,False
+489519,84912B,Green rose washbag,4,2009-12-01 11:37:00,3.75,17700.0,United Kingdom,15.0,1,Tuesday,False,False
+489519,85014C,Blue/brown dots ruffled umbrella,3,2009-12-01 11:37:00,5.95,17700.0,United Kingdom,17.85,1,Tuesday,False,False
+489519,85014A,Black/blue dots ruffled umbrella,3,2009-12-01 11:37:00,5.95,17700.0,United Kingdom,17.85,1,Tuesday,False,False
+489519,85014B,Red/white dots ruffled umbrella,3,2009-12-01 11:37:00,5.95,17700.0,United Kingdom,17.85,1,Tuesday,False,False
+489519,85014D,Pink/brown dots ruffled umbrella,3,2009-12-01 11:37:00,5.95,17700.0,United Kingdom,17.85,1,Tuesday,False,False
+489519,21326,Aged glass silver t-light holder,12,2009-12-01 11:37:00,0.65,17700.0,United Kingdom,7.800000000000001,1,Tuesday,False,False
+489519,84946,Antique silver tea glass etched,12,2009-12-01 11:37:00,1.25,17700.0,United Kingdom,15.0,1,Tuesday,False,False
+489519,84949,Silver hanging t-light holder,6,2009-12-01 11:37:00,1.65,17700.0,United Kingdom,9.899999999999999,1,Tuesday,False,False
+489519,21491,Set of three vintage gift wraps,6,2009-12-01 11:37:00,1.95,17700.0,United Kingdom,11.7,1,Tuesday,False,False
+489519,21908,Chocolate this way metal sign,6,2009-12-01 11:37:00,2.1,17700.0,United Kingdom,12.600000000000001,1,Tuesday,False,False
+489519,21181,Please one person  metal sign,6,2009-12-01 11:37:00,2.1,17700.0,United Kingdom,12.600000000000001,1,Tuesday,False,False
+489519,82483,Wood 2 drawer cabinet white finish,3,2009-12-01 11:37:00,5.95,17700.0,United Kingdom,17.85,1,Tuesday,False,False
+489519,79323S,Silver cherry lights,4,2009-12-01 11:37:00,6.75,17700.0,United Kingdom,27.0,1,Tuesday,False,False
+489519,21371,Mirrored wall art poppies,6,2009-12-01 11:37:00,2.55,17700.0,United Kingdom,15.299999999999999,1,Tuesday,False,False
+489519,85152,Hand over the chocolate   sign,6,2009-12-01 11:37:00,2.1,17700.0,United Kingdom,12.600000000000001,1,Tuesday,False,False
+489519,21133,Painted bird assorted christmas,12,2009-12-01 11:37:00,1.69,17700.0,United Kingdom,20.28,1,Tuesday,False,False
+489519,20984,12 pencils tall tube posy,12,2009-12-01 11:37:00,0.85,17700.0,United Kingdom,10.2,1,Tuesday,False,False
+489519,20982,12 pencils tall tube skulls,12,2009-12-01 11:37:00,0.85,17700.0,United Kingdom,10.2,1,Tuesday,False,False
+489519,84971L,Large heart flowers hook,12,2009-12-01 11:37:00,1.25,17700.0,United Kingdom,15.0,1,Tuesday,False,False
+489519,21912,Vintage snakes & ladders,8,2009-12-01 11:37:00,3.75,17700.0,United Kingdom,30.0,1,Tuesday,False,False
+489519,90168,2 daisies hair comb,6,2009-12-01 11:37:00,2.95,17700.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489519,84884A,Ant white wire heart spiral,5,2009-12-01 11:37:00,3.95,17700.0,United Kingdom,19.75,1,Tuesday,False,False
+489519,79323W,White cherry lights,4,2009-12-01 11:37:00,6.75,17700.0,United Kingdom,27.0,1,Tuesday,False,False
+489519,90013C,Green vintage earrings,4,2009-12-01 11:37:00,3.75,17700.0,United Kingdom,15.0,1,Tuesday,False,False
+489519,90023,Filigree diamante earrings,2,2009-12-01 11:37:00,4.25,17700.0,United Kingdom,8.5,1,Tuesday,False,False
+489519,90067A,Pink vintage victorian earrings,6,2009-12-01 11:37:00,2.95,17700.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489519,90067B,Brown vintage victorian earrings,6,2009-12-01 11:37:00,2.95,17700.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489519,90145,Silver hoop earrings with flower,2,2009-12-01 11:37:00,5.95,17700.0,United Kingdom,11.9,1,Tuesday,False,False
+489519,90000A,Raspberry ant copper flower necklac,2,2009-12-01 11:37:00,5.95,17700.0,United Kingdom,11.9,1,Tuesday,False,False
+489519,90024B,New baroque b'fly necklace red,2,2009-12-01 11:37:00,8.5,17700.0,United Kingdom,17.0,1,Tuesday,False,False
+489519,90036D,"Flower glass garland neckl.36""black",3,2009-12-01 11:37:00,7.95,17700.0,United Kingdom,23.85,1,Tuesday,False,False
+489519,90134,Old rose combo bead necklace,6,2009-12-01 11:37:00,2.95,17700.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489519,90131,Pink/amethyst/gold necklace,2,2009-12-01 11:37:00,6.95,17700.0,United Kingdom,13.9,1,Tuesday,False,False
+489519,90199C,5 strand glass necklace crystal,2,2009-12-01 11:37:00,6.35,17700.0,United Kingdom,12.7,1,Tuesday,False,False
+489520,35751C,Purple current candle ring,12,2009-12-01 11:41:00,0.75,14911.0,Eire,9.0,1,Tuesday,False,False
+489520,72739B,White chocolate scent candle,12,2009-12-01 11:41:00,1.25,14911.0,Eire,15.0,1,Tuesday,False,False
+489520,22114,Hot water bottle tea and sympathy,8,2009-12-01 11:41:00,3.95,14911.0,Eire,31.6,1,Tuesday,False,False
+489520,22212,Four hook  white lovebirds,6,2009-12-01 11:41:00,2.1,14911.0,Eire,12.600000000000001,1,Tuesday,False,False
+489520,21523,Fancy font home sweet home doormat,2,2009-12-01 11:41:00,6.75,14911.0,Eire,13.5,1,Tuesday,False,False
+489520,48187,Door mat new england,2,2009-12-01 11:41:00,6.75,14911.0,Eire,13.5,1,Tuesday,False,False
+489520,48195,Door mat green paisley,2,2009-12-01 11:41:00,6.75,14911.0,Eire,13.5,1,Tuesday,False,False
+489520,72741,Grand chocolatecandle,36,2009-12-01 11:41:00,1.45,14911.0,Eire,52.199999999999996,1,Tuesday,False,False
+489520,85232D,Set/3 decoupage stacking tins,3,2009-12-01 11:41:00,4.95,14911.0,Eire,14.850000000000001,1,Tuesday,False,False
+489520,20828,Glitter butterfly clips,6,2009-12-01 11:41:00,2.55,14911.0,Eire,15.299999999999999,1,Tuesday,False,False
+489520,22080,Ribbon reel spots design,10,2009-12-01 11:41:00,1.65,14911.0,Eire,16.5,1,Tuesday,False,False
+489520,22082,Ribbon reel stripes design,10,2009-12-01 11:41:00,1.65,14911.0,Eire,16.5,1,Tuesday,False,False
+489520,21754,Home building block word,6,2009-12-01 11:41:00,5.95,14911.0,Eire,35.7,1,Tuesday,False,False
+489520,21784,Shoe shine box,4,2009-12-01 11:41:00,9.95,14911.0,Eire,39.8,1,Tuesday,False,False
+489520,21172,Party metal sign,12,2009-12-01 11:41:00,1.45,14911.0,Eire,17.4,1,Tuesday,False,False
+489520,21181,Please one person  metal sign,6,2009-12-01 11:41:00,2.1,14911.0,Eire,12.600000000000001,1,Tuesday,False,False
+489520,82600,No singing metal sign,12,2009-12-01 11:41:00,2.1,14911.0,Eire,25.200000000000003,1,Tuesday,False,False
+489520,22282,12 egg house painted wood,4,2009-12-01 11:41:00,12.75,14911.0,Eire,51.0,1,Tuesday,False,False
+489520,21842,Pink heart candy button calculator,54,2009-12-01 11:41:00,2.55,14911.0,Eire,137.7,1,Tuesday,False,False
+489520,22089,Paper bunting vintage paisley,6,2009-12-01 11:41:00,2.95,14911.0,Eire,17.700000000000003,1,Tuesday,False,False
+489520,21430,Set/3 red gingham rose storage box,4,2009-12-01 11:41:00,3.75,14911.0,Eire,15.0,1,Tuesday,False,False
+489520,20734,Silver mini tape measure,10,2009-12-01 11:41:00,0.85,14911.0,Eire,8.5,1,Tuesday,False,False
+489520,21133,Painted bird assorted christmas,12,2009-12-01 11:41:00,1.69,14911.0,Eire,20.28,1,Tuesday,False,False
+489520,35071,Assorted santa christmas decoration,12,2009-12-01 11:41:00,0.85,14911.0,Eire,10.2,1,Tuesday,False,False
+489520,22083,Paper chain kit retro spot,6,2009-12-01 11:41:00,2.95,14911.0,Eire,17.700000000000003,1,Tuesday,False,False
+489520,22086,Paper chain kit 50's christmas,6,2009-12-01 11:41:00,2.95,14911.0,Eire,17.700000000000003,1,Tuesday,False,False
+489520,22121,Noel wooden block letters,3,2009-12-01 11:41:00,5.95,14911.0,Eire,17.85,1,Tuesday,False,False
+489520,21485,Red spot heart hot water bottle,3,2009-12-01 11:41:00,4.95,14911.0,Eire,14.850000000000001,1,Tuesday,False,False
+489520,84836,Zinc metal heart decoration,12,2009-12-01 11:41:00,1.25,14911.0,Eire,15.0,1,Tuesday,False,False
+489520,22122,Set of 2 fancy font tea towels,12,2009-12-01 11:41:00,2.95,14911.0,Eire,35.400000000000006,1,Tuesday,False,False
+489522,21916,Set 12 retro white chalk sticks,3,2009-12-01 11:45:00,0.42,15998.0,United Kingdom,1.26,1,Tuesday,False,False
+489522,72760B,Vintage cream 3 basket cake stand,1,2009-12-01 11:45:00,9.95,15998.0,United Kingdom,9.95,1,Tuesday,False,False
+489522,37492A,Yellow red flower piggy bank,1,2009-12-01 11:45:00,4.65,15998.0,United Kingdom,4.65,1,Tuesday,False,False
+489522,21479,White skull hot water bottle,2,2009-12-01 11:45:00,3.75,15998.0,United Kingdom,7.5,1,Tuesday,False,False
+489522,10133,Colouring pencils brown tube,6,2009-12-01 11:45:00,0.85,15998.0,United Kingdom,5.1,1,Tuesday,False,False
+489522,22113,Grey heart hot water bottle,4,2009-12-01 11:45:00,3.45,15998.0,United Kingdom,13.8,1,Tuesday,False,False
+489522,20782,Camouflage ear muff headphones,1,2009-12-01 11:45:00,5.49,15998.0,United Kingdom,5.49,1,Tuesday,False,False
+489522,22190,Local cafe mug,1,2009-12-01 11:45:00,2.1,15998.0,United Kingdom,2.1,1,Tuesday,False,False
+489522,22111,Scottie dog hot water bottle,2,2009-12-01 11:45:00,4.95,15998.0,United Kingdom,9.9,1,Tuesday,False,False
+489522,84029G,Knitted union flag hot water bottle,1,2009-12-01 11:45:00,3.75,15998.0,United Kingdom,3.75,1,Tuesday,False,False
+489522,22114,Hot water bottle tea and sympathy,1,2009-12-01 11:45:00,3.95,15998.0,United Kingdom,3.95,1,Tuesday,False,False
+489522,21489,Blue white scarf hot water bottle,1,2009-12-01 11:45:00,3.95,15998.0,United Kingdom,3.95,1,Tuesday,False,False
+489522,20987,Geisha girl chopsticks set/5,6,2009-12-01 11:45:00,1.95,15998.0,United Kingdom,11.7,1,Tuesday,False,False
+489522,20989,Urban chic chopsticks set/5,2,2009-12-01 11:45:00,1.95,15998.0,United Kingdom,3.9,1,Tuesday,False,False
+489522,21868,Potting shed tea mug,1,2009-12-01 11:45:00,1.25,15998.0,United Kingdom,1.25,1,Tuesday,False,False
+489522,21875,Kings choice mug,1,2009-12-01 11:45:00,1.25,15998.0,United Kingdom,1.25,1,Tuesday,False,False
+489522,21869,Potting shed coffee mug,1,2009-12-01 11:45:00,1.25,15998.0,United Kingdom,1.25,1,Tuesday,False,False
+489522,21826,Eight piece dinosaur set,3,2009-12-01 11:45:00,1.25,15998.0,United Kingdom,3.75,1,Tuesday,False,False
+489522,21827,Eight piece creepy crawlie set,3,2009-12-01 11:45:00,1.25,15998.0,United Kingdom,3.75,1,Tuesday,False,False
+489522,21828,Eight piece snake  set,3,2009-12-01 11:45:00,1.25,15998.0,United Kingdom,3.75,1,Tuesday,False,False
+489522,16225,Rattle snake eggs,4,2009-12-01 11:45:00,1.25,15998.0,United Kingdom,5.0,1,Tuesday,False,False
+489522,21829,Dinosaur keyrings assorted,36,2009-12-01 11:45:00,0.21,15998.0,United Kingdom,7.56,1,Tuesday,False,False
+489522,21582,Kings choice small tube matches,2,2009-12-01 11:45:00,1.65,15998.0,United Kingdom,3.3,1,Tuesday,False,False
+489522,21584,Retro spot small tube matches,2,2009-12-01 11:45:00,1.65,15998.0,United Kingdom,3.3,1,Tuesday,False,False
+489522,21638,Assorted tutti frutti notebook,6,2009-12-01 11:45:00,2.1,15998.0,United Kingdom,12.600000000000001,1,Tuesday,False,False
+489522,35400,Wooden box advent calendar,2,2009-12-01 11:45:00,8.95,15998.0,United Kingdom,17.9,1,Tuesday,False,False
+489522,22218,Cake stand lace white,1,2009-12-01 11:45:00,4.25,15998.0,United Kingdom,4.25,1,Tuesday,False,False
+489522,22222,Cake plate lovebird white,1,2009-12-01 11:45:00,4.95,15998.0,United Kingdom,4.95,1,Tuesday,False,False
+489522,22300,Coffee mug dog + ball design,3,2009-12-01 11:45:00,2.55,15998.0,United Kingdom,7.6499999999999995,1,Tuesday,False,False
+489522,22301,Coffee mug cat + bird design,3,2009-12-01 11:45:00,2.55,15998.0,United Kingdom,7.6499999999999995,1,Tuesday,False,False
+489522,22305,Coffee mug pink paisley design,3,2009-12-01 11:45:00,2.55,15998.0,United Kingdom,7.6499999999999995,1,Tuesday,False,False
+489522,22304,Coffee mug blue paisley design,3,2009-12-01 11:45:00,2.55,15998.0,United Kingdom,7.6499999999999995,1,Tuesday,False,False
+489522,22302,Coffee mug pears  design,3,2009-12-01 11:45:00,2.55,15998.0,United Kingdom,7.6499999999999995,1,Tuesday,False,False
+489522,22303,Coffee mug apples design,3,2009-12-01 11:45:00,2.55,15998.0,United Kingdom,7.6499999999999995,1,Tuesday,False,False
+489522,22127,Party cones carnival assorted,6,2009-12-01 11:45:00,1.25,15998.0,United Kingdom,7.5,1,Tuesday,False,False
+489522,22130,Party cone christmas decoration,24,2009-12-01 11:45:00,0.85,15998.0,United Kingdom,20.4,1,Tuesday,False,False
+489522,21143,Antique glass heart decoration,7,2009-12-01 11:45:00,1.95,15998.0,United Kingdom,13.65,1,Tuesday,False,False
+489522,21639,Assorted tutti frutti keyring,10,2009-12-01 11:45:00,0.85,15998.0,United Kingdom,8.5,1,Tuesday,False,False
+489522,22154,Angel decoration 3 buttons,6,2009-12-01 11:45:00,0.42,15998.0,United Kingdom,2.52,1,Tuesday,False,False
+489522,22155,Star decoration rustic,6,2009-12-01 11:45:00,0.42,15998.0,United Kingdom,2.52,1,Tuesday,False,False
+489522,22294,Heart filigree dove  small,6,2009-12-01 11:45:00,1.25,15998.0,United Kingdom,7.5,1,Tuesday,False,False
+489522,21133,Painted bird assorted christmas,6,2009-12-01 11:45:00,1.69,15998.0,United Kingdom,10.14,1,Tuesday,False,False
+489522,21889,Wooden box of dominoes,2,2009-12-01 11:45:00,1.25,15998.0,United Kingdom,2.5,1,Tuesday,False,False
+489522,85045,Green christmas tree string 20light,2,2009-12-01 11:45:00,4.95,15998.0,United Kingdom,9.9,1,Tuesday,False,False
+489522,85044,Red reindeer string of 20 lights,2,2009-12-01 11:45:00,4.95,15998.0,United Kingdom,9.9,1,Tuesday,False,False
+489522,21888,Bingo set,3,2009-12-01 11:45:00,3.75,15998.0,United Kingdom,11.25,1,Tuesday,False,False
+489522,21587,Cosy hour giant tube matches,6,2009-12-01 11:45:00,2.55,15998.0,United Kingdom,15.299999999999999,1,Tuesday,False,False
+489522,21588,Retro spot giant  tube matches,2,2009-12-01 11:45:00,2.55,15998.0,United Kingdom,5.1,1,Tuesday,False,False
+489522,21586,Kings choice giant tube matches,4,2009-12-01 11:45:00,2.55,15998.0,United Kingdom,10.2,1,Tuesday,False,False
+489522,21818,Glitter christmas heart,6,2009-12-01 11:45:00,0.85,15998.0,United Kingdom,5.1,1,Tuesday,False,False
+489522,21819,Glitter christmas star,6,2009-12-01 11:45:00,0.85,15998.0,United Kingdom,5.1,1,Tuesday,False,False
+489522,21817,Glitter christmas tree,6,2009-12-01 11:45:00,0.85,15998.0,United Kingdom,5.1,1,Tuesday,False,False
+489522,48111,Door mat 3 smiley cats,1,2009-12-01 11:45:00,6.75,15998.0,United Kingdom,6.75,1,Tuesday,False,False
+489522,20685,Red spotty coir doormat,1,2009-12-01 11:45:00,6.75,15998.0,United Kingdom,6.75,1,Tuesday,False,False
+489522,48194,Doormat hearts,1,2009-12-01 11:45:00,6.75,15998.0,United Kingdom,6.75,1,Tuesday,False,False
+489522,21495,Skulls wrap,25,2009-12-01 11:45:00,0.42,15998.0,United Kingdom,10.5,1,Tuesday,False,False
+489522,47505,Minature coloured gardening set,2,2009-12-01 11:45:00,4.95,15998.0,United Kingdom,9.9,1,Tuesday,False,False
+489522,10135,Colouring pencils brown tube,6,2009-12-01 11:45:00,1.25,15998.0,United Kingdom,7.5,1,Tuesday,False,False
+489522,22125,Union jack hot water bottle,4,2009-12-01 11:45:00,5.95,15998.0,United Kingdom,23.8,1,Tuesday,False,False
+489522,37492C,Green blue flower piggy bank,1,2009-12-01 11:45:00,4.65,15998.0,United Kingdom,4.65,1,Tuesday,False,False
+489522,20677,Pink spotty bowl,1,2009-12-01 11:45:00,1.25,15998.0,United Kingdom,1.25,1,Tuesday,False,False
+489522,20676,Red spotty bowl,1,2009-12-01 11:45:00,1.25,15998.0,United Kingdom,1.25,1,Tuesday,False,False
+489522,20675,Blue spotty bowl,1,2009-12-01 11:45:00,1.25,15998.0,United Kingdom,1.25,1,Tuesday,False,False
+489522,21086,Set/6 red spotty paper cups,8,2009-12-01 11:45:00,0.65,15998.0,United Kingdom,5.2,1,Tuesday,False,False
+489522,21948,Set of 6 cake chopsticks,6,2009-12-01 11:45:00,1.25,15998.0,United Kingdom,7.5,1,Tuesday,False,False
+489522,21833,Camouflage led torch,12,2009-12-01 11:45:00,1.69,15998.0,United Kingdom,20.28,1,Tuesday,False,False
+489522,21832,Chocolate calculator,5,2009-12-01 11:45:00,1.65,15998.0,United Kingdom,8.25,1,Tuesday,False,False
+489522,22315,200 red + white bendy straws,1,2009-12-01 11:45:00,1.25,15998.0,United Kingdom,1.25,1,Tuesday,False,False
+489522,21870,I can only please one person mug,1,2009-12-01 11:45:00,1.25,15998.0,United Kingdom,1.25,1,Tuesday,False,False
+489522,82600,No singing metal sign,1,2009-12-01 11:45:00,2.1,15998.0,United Kingdom,2.1,1,Tuesday,False,False
+489522,21181,Please one person  metal sign,2,2009-12-01 11:45:00,2.1,15998.0,United Kingdom,4.2,1,Tuesday,False,False
+489522,22115,Metal sign empire tea,1,2009-12-01 11:45:00,2.95,15998.0,United Kingdom,2.95,1,Tuesday,False,False
+489522,21166,Cook with wine metal sign,2,2009-12-01 11:45:00,1.95,15998.0,United Kingdom,3.9,1,Tuesday,False,False
+489522,21175,Gin + tonic diet metal sign,2,2009-12-01 11:45:00,2.1,15998.0,United Kingdom,4.2,1,Tuesday,False,False
+489522,21174,Pottering in the shed metal sign,1,2009-12-01 11:45:00,1.95,15998.0,United Kingdom,1.95,1,Tuesday,False,False
+489522,21908,Chocolate this way metal sign,3,2009-12-01 11:45:00,2.1,15998.0,United Kingdom,6.300000000000001,1,Tuesday,False,False
+489522,82582,Area patrolled metal sign,1,2009-12-01 11:45:00,2.1,15998.0,United Kingdom,2.1,1,Tuesday,False,False
+489522,85152,Hand over the chocolate   sign,2,2009-12-01 11:45:00,2.1,15998.0,United Kingdom,4.2,1,Tuesday,False,False
+489522,85150,Ladies & gentlemen metal sign,1,2009-12-01 11:45:00,2.55,15998.0,United Kingdom,2.55,1,Tuesday,False,False
+489522,22197,"Popcorn holder , small",10,2009-12-01 11:45:00,0.85,15998.0,United Kingdom,8.5,1,Tuesday,False,False
+489522,21094,Set/6 red spotty paper plates,4,2009-12-01 11:45:00,0.85,15998.0,United Kingdom,3.4,1,Tuesday,False,False
+489522,72724,Set/6 christmas icicle t-lights,7,2009-12-01 11:45:00,1.25,15998.0,United Kingdom,8.75,1,Tuesday,False,False
+489522,22103,Mirror mosaic t-light holder round,6,2009-12-01 11:45:00,1.65,15998.0,United Kingdom,9.899999999999999,1,Tuesday,False,False
+489522,37424,White with black cats mug,6,2009-12-01 11:45:00,0.85,15998.0,United Kingdom,5.1,1,Tuesday,False,False
+489522,21136,Painted metal pears assorted,8,2009-12-01 11:45:00,1.69,15998.0,United Kingdom,13.52,1,Tuesday,False,False
+489522,21755,Love building block word,1,2009-12-01 11:45:00,5.95,15998.0,United Kingdom,5.95,1,Tuesday,False,False
+489522,84879,Assorted colour bird ornament,8,2009-12-01 11:45:00,1.69,15998.0,United Kingdom,13.52,1,Tuesday,False,False
+489522,84997B,Red 3 piece mini dots cutlery set,1,2009-12-01 11:45:00,3.75,15998.0,United Kingdom,3.75,1,Tuesday,False,False
+489522,84997D,Pink 3 piece mini dots cutlery set,1,2009-12-01 11:45:00,3.75,15998.0,United Kingdom,3.75,1,Tuesday,False,False
+489522,84997C,Blue 3 piece mini dots cutlery set,1,2009-12-01 11:45:00,3.75,15998.0,United Kingdom,3.75,1,Tuesday,False,False
+489522,21238,Red spotty cup,4,2009-12-01 11:45:00,0.85,15998.0,United Kingdom,3.4,1,Tuesday,False,False
+489522,21240,Blue  spotty cup,4,2009-12-01 11:45:00,0.85,15998.0,United Kingdom,3.4,1,Tuesday,False,False
+489522,21239,Pink  spotty cup,4,2009-12-01 11:45:00,0.85,15998.0,United Kingdom,3.4,1,Tuesday,False,False
+489522,84007,Magic garden mount fuji,4,2009-12-01 11:45:00,2.55,15998.0,United Kingdom,10.2,1,Tuesday,False,False
+489522,84012,Magic sheep wool growing from paper,4,2009-12-01 11:45:00,2.55,15998.0,United Kingdom,10.2,1,Tuesday,False,False
+489522,22077,6 ribbons rustic charm,1,2009-12-01 11:45:00,1.65,15998.0,United Kingdom,1.65,1,Tuesday,False,False
+489522,85049A,Traditional christmas ribbons,2,2009-12-01 11:45:00,1.25,15998.0,United Kingdom,2.5,1,Tuesday,False,False
+489522,85049E,Scandinavian reds ribbons,2,2009-12-01 11:45:00,1.25,15998.0,United Kingdom,2.5,1,Tuesday,False,False
+489522,22075,6 ribbons elegant christmas,2,2009-12-01 11:45:00,1.65,15998.0,United Kingdom,3.3,1,Tuesday,False,False
+489522,22076,6 ribbons empire,1,2009-12-01 11:45:00,1.65,15998.0,United Kingdom,1.65,1,Tuesday,False,False
+489522,79323W,White cherry lights,1,2009-12-01 11:45:00,6.75,15998.0,United Kingdom,6.75,1,Tuesday,False,False
+489522,79323LP,Light pink cherry lights,1,2009-12-01 11:45:00,6.75,15998.0,United Kingdom,6.75,1,Tuesday,False,False
+489522,79342B,Brown flower lights,1,2009-12-01 11:45:00,6.75,15998.0,United Kingdom,6.75,1,Tuesday,False,False
+489522,79341,Willow branch lights.,6,2009-12-01 11:45:00,6.75,15998.0,United Kingdom,40.5,1,Tuesday,False,False
+489523,84879,Assorted colour bird ornament,800,2009-12-01 11:46:00,1.45,12931.0,United Kingdom,1160.0,1,Tuesday,False,True
+489525,85226C,Blue pull back racing car,1,2009-12-01 11:49:00,0.55,nan,United Kingdom,0.55,1,Tuesday,False,False
+489525,85227,Set/6 3d kit cards for kids,1,2009-12-01 11:49:00,0.85,nan,United Kingdom,0.85,1,Tuesday,False,False
+489526,85049E,Scandinavian reds ribbons,12,2009-12-01 11:50:00,1.25,12533.0,Germany,15.0,1,Tuesday,False,False
+489526,21976,Pack of 60 mushroom cake cases,24,2009-12-01 11:50:00,0.55,12533.0,Germany,13.200000000000001,1,Tuesday,False,False
+489526,21498,Red spots  wrap,25,2009-12-01 11:50:00,0.42,12533.0,Germany,10.5,1,Tuesday,False,False
+489526,22077,6 ribbons rustic charm,12,2009-12-01 11:50:00,1.65,12533.0,Germany,19.799999999999997,1,Tuesday,False,False
+489526,84946,Antique silver tea glass etched,12,2009-12-01 11:50:00,1.25,12533.0,Germany,15.0,1,Tuesday,False,False
+489526,84948,Silver hanging t-light holder dome,24,2009-12-01 11:50:00,1.65,12533.0,Germany,39.599999999999994,1,Tuesday,False,False
+489526,21537,Retro spots pudding bowl,4,2009-12-01 11:50:00,4.25,12533.0,Germany,17.0,1,Tuesday,False,False
+489526,21733,Red hanging heart t-light holder,6,2009-12-01 11:50:00,2.95,12533.0,Germany,17.700000000000003,1,Tuesday,False,False
+489526,85123A,White hanging heart t-light holder,6,2009-12-01 11:50:00,2.95,12533.0,Germany,17.700000000000003,1,Tuesday,False,False
+489526,20718,Red spotty shopper bag,10,2009-12-01 11:50:00,1.25,12533.0,Germany,12.5,1,Tuesday,False,False
+489526,21539,Retro spots butter dish,3,2009-12-01 11:50:00,4.95,12533.0,Germany,14.850000000000001,1,Tuesday,False,False
+489526,16169F,Wrap blizzard,25,2009-12-01 11:50:00,0.42,12533.0,Germany,10.5,1,Tuesday,False,False
+489526,84836,Zinc metal heart decoration,24,2009-12-01 11:50:00,1.25,12533.0,Germany,30.0,1,Tuesday,False,False
+489526,21527,Retro spot traditional teapot,2,2009-12-01 11:50:00,7.95,12533.0,Germany,15.9,1,Tuesday,False,False
+489526,21533,Retro spot large milk jug,6,2009-12-01 11:50:00,4.95,12533.0,Germany,29.700000000000003,1,Tuesday,False,False
+489526,21531,Retro spot sugar jam bowl,6,2009-12-01 11:50:00,2.55,12533.0,Germany,15.299999999999999,1,Tuesday,False,False
+489526,22180,Retro spot lamp,3,2009-12-01 11:50:00,9.95,12533.0,Germany,29.849999999999998,1,Tuesday,False,False
+489526,22333,Retro sport party bag + sticker set,8,2009-12-01 11:50:00,1.65,12533.0,Germany,13.2,1,Tuesday,False,False
+489526,22319,Hairclips forties fabric assorted,24,2009-12-01 11:50:00,0.65,12533.0,Germany,15.600000000000001,1,Tuesday,False,False
+489526,85232B,Set/3 russian doll stacking tins,9,2009-12-01 11:50:00,4.95,12533.0,Germany,44.550000000000004,1,Tuesday,False,False
+489526,20676,Red spotty bowl,8,2009-12-01 11:50:00,1.25,12533.0,Germany,10.0,1,Tuesday,False,False
+489526,20914,Set/5 red spotty lid glass bowls,12,2009-12-01 11:50:00,2.95,12533.0,Germany,35.400000000000006,1,Tuesday,False,False
+489526,21217,Red spotty round cake tins,3,2009-12-01 11:50:00,9.95,12533.0,Germany,29.849999999999998,1,Tuesday,False,False
+489526,21238,Red spotty cup,16,2009-12-01 11:50:00,0.85,12533.0,Germany,13.6,1,Tuesday,False,False
+489526,21242,Red spotty plate,8,2009-12-01 11:50:00,1.69,12533.0,Germany,13.52,1,Tuesday,False,False
+489526,22232,Jigsaw toadstools 3 piece,8,2009-12-01 11:50:00,1.65,12533.0,Germany,13.2,1,Tuesday,False,False
+489526,21535,Retro spot small milk jug,6,2009-12-01 11:50:00,2.55,12533.0,Germany,15.299999999999999,1,Tuesday,False,False
+489526,21844,Retro spot mug,6,2009-12-01 11:50:00,2.95,12533.0,Germany,17.700000000000003,1,Tuesday,False,False
+489526,22073,Retro spot storage jar,4,2009-12-01 11:50:00,3.75,12533.0,Germany,15.0,1,Tuesday,False,False
+489526,22072,Tea cup and saucer retro spot,4,2009-12-01 11:50:00,3.75,12533.0,Germany,15.0,1,Tuesday,False,False
+489526,22321,Bird decoration red spot,24,2009-12-01 11:50:00,0.85,12533.0,Germany,20.4,1,Tuesday,False,False
+489526,15056BL,Edwardian parasol black,6,2009-12-01 11:50:00,5.95,12533.0,Germany,35.7,1,Tuesday,False,False
+489526,15056N,Edwardian parasol natural,6,2009-12-01 11:50:00,5.95,12533.0,Germany,35.7,1,Tuesday,False,False
+489526,21731,Red toadstool led night light,12,2009-12-01 11:50:00,1.65,12533.0,Germany,19.799999999999997,1,Tuesday,False,False
+489526,22254,Felt toadstool large,12,2009-12-01 11:50:00,1.25,12533.0,Germany,15.0,1,Tuesday,False,False
+489526,22255,Felt toadstool  small,12,2009-12-01 11:50:00,0.85,12533.0,Germany,10.2,1,Tuesday,False,False
+489526,46000S,Polyester filler pad 40x40cm,2,2009-12-01 11:50:00,1.45,12533.0,Germany,2.9,1,Tuesday,False,False
+489526,20964,Polyester filler pad 60x40cm,3,2009-12-01 11:50:00,2.55,12533.0,Germany,7.6499999999999995,1,Tuesday,False,False
+489526,21788,Kids rain mac blue,24,2009-12-01 11:50:00,0.85,12533.0,Germany,20.4,1,Tuesday,False,False
+489526,21789,Kids rain mac pink,24,2009-12-01 11:50:00,0.85,12533.0,Germany,20.4,1,Tuesday,False,False
+489526,20682,Red spotty childs umbrella,6,2009-12-01 11:50:00,3.25,12533.0,Germany,19.5,1,Tuesday,False,False
+489526,85014C,Blue/brown dots ruffled umbrella,3,2009-12-01 11:50:00,5.95,12533.0,Germany,17.85,1,Tuesday,False,False
+489526,84832,Zinc willie winkie  candle stick,24,2009-12-01 11:50:00,0.85,12533.0,Germany,20.4,1,Tuesday,False,False
+489526,POST,Postage,6,2009-12-01 11:50:00,18.0,12533.0,Germany,108.0,1,Tuesday,False,False
+489529,85063,Cream sweetheart magazine rack,1,2009-12-01 11:51:00,16.95,17984.0,United Kingdom,16.95,1,Tuesday,False,False
+489529,48129,Door mat topiary,1,2009-12-01 11:51:00,6.75,17984.0,United Kingdom,6.75,1,Tuesday,False,False
+489529,21491,Set of three vintage gift wraps,1,2009-12-01 11:51:00,1.95,17984.0,United Kingdom,1.95,1,Tuesday,False,False
+489529,22030,Swallows greeting card,1,2009-12-01 11:51:00,0.42,17984.0,United Kingdom,0.42,1,Tuesday,False,False
+489529,21081,Set/20 posies paper napkins,1,2009-12-01 11:51:00,0.85,17984.0,United Kingdom,0.85,1,Tuesday,False,False
+489529,20773,Blue paisley notebook,1,2009-12-01 11:51:00,1.65,17984.0,United Kingdom,1.65,1,Tuesday,False,False
+489529,20767,Blue paisley journal,1,2009-12-01 11:51:00,2.55,17984.0,United Kingdom,2.55,1,Tuesday,False,False
+489529,22028,Penny farthing birthday card,12,2009-12-01 11:51:00,0.42,17984.0,United Kingdom,5.04,1,Tuesday,False,False
+489529,20622,Vippassport cover,1,2009-12-01 11:51:00,2.1,17984.0,United Kingdom,2.1,1,Tuesday,False,False
+489529,21122,Set/10 pink spotty party candles,1,2009-12-01 11:51:00,1.25,17984.0,United Kingdom,1.25,1,Tuesday,False,False
+489529,21124,Set/10 blue spotty party candles,1,2009-12-01 11:51:00,1.25,17984.0,United Kingdom,1.25,1,Tuesday,False,False
+489529,20657,Tropical luggage tag,1,2009-12-01 11:51:00,1.25,17984.0,United Kingdom,1.25,1,Tuesday,False,False
+489529,16156N,"Wrap, friendship on green",25,2009-12-01 11:51:00,0.42,17984.0,United Kingdom,10.5,1,Tuesday,False,False
+489529,20673,Strawberries print bowl,4,2009-12-01 11:51:00,1.25,17984.0,United Kingdom,5.0,1,Tuesday,False,False
+489529,22300,Coffee mug dog + ball design,6,2009-12-01 11:51:00,2.55,17984.0,United Kingdom,15.299999999999999,1,Tuesday,False,False
+489529,84520B,Pack 20 english rose paper napkins,1,2009-12-01 11:51:00,0.85,17984.0,United Kingdom,0.85,1,Tuesday,False,False
+489529,22086,Paper chain kit 50's christmas,1,2009-12-01 11:51:00,2.95,17984.0,United Kingdom,2.95,1,Tuesday,False,False
+489529,20619,Tropical passport cover,1,2009-12-01 11:51:00,2.1,17984.0,United Kingdom,2.1,1,Tuesday,False,False
+489529,21864,Union jack flag passport cover,1,2009-12-01 11:51:00,2.1,17984.0,United Kingdom,2.1,1,Tuesday,False,False
+489529,21866,Union jack flag luggage tag,1,2009-12-01 11:51:00,1.25,17984.0,United Kingdom,1.25,1,Tuesday,False,False
+489529,20660,Vip luggage tag,1,2009-12-01 11:51:00,1.25,17984.0,United Kingdom,1.25,1,Tuesday,False,False
+489529,21489,Blue white scarf hot water bottle,1,2009-12-01 11:51:00,3.95,17984.0,United Kingdom,3.95,1,Tuesday,False,False
+489529,16207A,Pink strawberry handbag,1,2009-12-01 11:51:00,2.95,17984.0,United Kingdom,2.95,1,Tuesday,False,False
+489529,20777,Chrysanthemum notebook,1,2009-12-01 11:51:00,1.65,17984.0,United Kingdom,1.65,1,Tuesday,False,False
+489529,20774,Green fern notebook,2,2009-12-01 11:51:00,1.65,17984.0,United Kingdom,3.3,1,Tuesday,False,False
+489529,22029,Space boy birthday card,12,2009-12-01 11:51:00,0.42,17984.0,United Kingdom,5.04,1,Tuesday,False,False
+489529,22024,Rainy ladies birthday card,12,2009-12-01 11:51:00,0.42,17984.0,United Kingdom,5.04,1,Tuesday,False,False
+489529,22037,Robot birthday card,12,2009-12-01 11:51:00,0.42,17984.0,United Kingdom,5.04,1,Tuesday,False,False
+489529,22036,Dinosaur birthday card,12,2009-12-01 11:51:00,0.42,17984.0,United Kingdom,5.04,1,Tuesday,False,False
+489529,21833,Camouflage led torch,2,2009-12-01 11:51:00,1.69,17984.0,United Kingdom,3.38,1,Tuesday,False,False
+489529,21726,Multi hearts  stickers,3,2009-12-01 11:51:00,0.85,17984.0,United Kingdom,2.55,1,Tuesday,False,False
+489529,21544,Skulls  water transfer tattoos,2,2009-12-01 11:51:00,0.85,17984.0,United Kingdom,1.7,1,Tuesday,False,False
+489529,21004,Rose du sud childs apron,1,2009-12-01 11:51:00,4.25,17984.0,United Kingdom,4.25,1,Tuesday,False,False
+489529,20984,12 pencils tall tube posy,1,2009-12-01 11:51:00,0.85,17984.0,United Kingdom,0.85,1,Tuesday,False,False
+489529,20982,12 pencils tall tube skulls,2,2009-12-01 11:51:00,0.85,17984.0,United Kingdom,1.7,1,Tuesday,False,False
+489529,84402D,Pink dress jewellery stand,1,2009-12-01 11:51:00,2.95,17984.0,United Kingdom,2.95,1,Tuesday,False,False
+489529,84660B,Black stitched wall clock,1,2009-12-01 11:51:00,3.75,17984.0,United Kingdom,3.75,1,Tuesday,False,False
+489529,21429,Red gingham rose jewellery box,4,2009-12-01 11:51:00,1.65,17984.0,United Kingdom,6.6,1,Tuesday,False,False
+489529,72754B,F fairy potpourri cushions lavender,1,2009-12-01 11:51:00,1.69,17984.0,United Kingdom,1.69,1,Tuesday,False,False
+489529,21500,Pink spots  wrap,25,2009-12-01 11:51:00,0.42,17984.0,United Kingdom,10.5,1,Tuesday,False,False
+489529,21431,Green gingham flower jewellery box,4,2009-12-01 11:51:00,1.65,17984.0,United Kingdom,6.6,1,Tuesday,False,False
+489529,21912,Vintage snakes & ladders,2,2009-12-01 11:51:00,3.75,17984.0,United Kingdom,7.5,1,Tuesday,False,False
+489529,20748,Kensington coffee set,1,2009-12-01 11:51:00,12.75,17984.0,United Kingdom,12.75,1,Tuesday,False,False
+489529,21490,Set of three 50's gift wraps,2,2009-12-01 11:51:00,1.95,17984.0,United Kingdom,3.9,1,Tuesday,False,False
+489529,72802B,Ocean scent candle in jewelled box,3,2009-12-01 11:51:00,4.25,17984.0,United Kingdom,12.75,1,Tuesday,False,False
+489531,79029,Glass honeypot wasp catcher,1,2009-12-01 11:57:00,1.95,14871.0,United Kingdom,1.95,1,Tuesday,False,False
+489531,71477,Colour glass. star t-light holder,12,2009-12-01 11:57:00,3.25,14871.0,United Kingdom,39.0,1,Tuesday,False,False
+489531,85042,Antique lily fairy lights,4,2009-12-01 11:57:00,4.95,14871.0,United Kingdom,19.8,1,Tuesday,False,False
+489531,85123A,White hanging heart t-light holder,5,2009-12-01 11:57:00,2.95,14871.0,United Kingdom,14.75,1,Tuesday,False,False
+489531,21590,Kings choice cigar box matches,4,2009-12-01 11:57:00,1.25,14871.0,United Kingdom,5.0,1,Tuesday,False,False
+489531,21591,Cosy hour cigar box matches,7,2009-12-01 11:57:00,1.25,14871.0,United Kingdom,8.75,1,Tuesday,False,False
+489531,21582,Kings choice small tube matches,8,2009-12-01 11:57:00,1.65,14871.0,United Kingdom,13.2,1,Tuesday,False,False
+489531,21587,Cosy hour giant tube matches,6,2009-12-01 11:57:00,2.55,14871.0,United Kingdom,15.299999999999999,1,Tuesday,False,False
+489531,82486,Wood s/3 cabinet ant white finish,1,2009-12-01 11:57:00,7.95,14871.0,United Kingdom,7.95,1,Tuesday,False,False
+489531,82483,Wood 2 drawer cabinet white finish,1,2009-12-01 11:57:00,5.95,14871.0,United Kingdom,5.95,1,Tuesday,False,False
+489531,22112,Chocolate hot water bottle,1,2009-12-01 11:57:00,4.95,14871.0,United Kingdom,4.95,1,Tuesday,False,False
+489531,22111,Scottie dog hot water bottle,1,2009-12-01 11:57:00,4.95,14871.0,United Kingdom,4.95,1,Tuesday,False,False
+489531,72801E,S/4 festive green dinner candles,2,2009-12-01 11:57:00,1.25,14871.0,United Kingdom,2.5,1,Tuesday,False,False
+489531,21034,Rex cash+carry jumbo shopper,1,2009-12-01 11:57:00,0.95,14871.0,United Kingdom,0.95,1,Tuesday,False,False
+489532,85049D,Bright blues ribbons,12,2009-12-01 11:58:00,1.25,13394.0,United Kingdom,15.0,1,Tuesday,False,False
+489532,21985,Pack of 12 hearts design tissues,48,2009-12-01 11:58:00,0.29,13394.0,United Kingdom,13.919999999999998,1,Tuesday,False,False
+489532,21980,Pack of 12 red spotty tissues,48,2009-12-01 11:58:00,0.29,13394.0,United Kingdom,13.919999999999998,1,Tuesday,False,False
+489532,16235,Recycled pencil with rabbit eraser,60,2009-12-01 11:58:00,0.21,13394.0,United Kingdom,12.6,1,Tuesday,False,False
+489532,22083,Paper chain kit retro spot,6,2009-12-01 11:58:00,2.95,13394.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489532,22086,Paper chain kit 50's christmas,6,2009-12-01 11:58:00,2.95,13394.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489532,22111,Scottie dog hot water bottle,3,2009-12-01 11:58:00,4.95,13394.0,United Kingdom,14.850000000000001,1,Tuesday,False,False
+489532,84347,Rotating silver angels t-light hldr,6,2009-12-01 11:58:00,2.55,13394.0,United Kingdom,15.299999999999999,1,Tuesday,False,False
+489532,21485,Red spot heart hot water bottle,3,2009-12-01 11:58:00,4.95,13394.0,United Kingdom,14.850000000000001,1,Tuesday,False,False
+489532,21212,Pack of 72 retro spot cake cases,24,2009-12-01 11:58:00,0.55,13394.0,United Kingdom,13.200000000000001,1,Tuesday,False,False
+489532,84990,60 gold and silver fairy cake cases,24,2009-12-01 11:58:00,0.55,13394.0,United Kingdom,13.200000000000001,1,Tuesday,False,False
+489532,85231E,Strawberry scented set/9 t-lights,12,2009-12-01 11:58:00,0.85,13394.0,United Kingdom,10.2,1,Tuesday,False,False
+489532,85231B,Cinammon set of 9 t-lights,24,2009-12-01 11:58:00,0.85,13394.0,United Kingdom,20.4,1,Tuesday,False,False
+489532,72008,Frosted box 9 white t-light candles,12,2009-12-01 11:58:00,0.42,13394.0,United Kingdom,5.04,1,Tuesday,False,False
+489532,22071,Small retro spot mug in box  white,6,2009-12-01 11:58:00,3.75,13394.0,United Kingdom,22.5,1,Tuesday,False,False
+489532,22070,Small retro spot mug in box  red,6,2009-12-01 11:58:00,3.75,13394.0,United Kingdom,22.5,1,Tuesday,False,False
+489532,22077,6 ribbons rustic charm,9,2009-12-01 11:58:00,1.65,13394.0,United Kingdom,14.85,1,Tuesday,False,False
+489532,20892,Set/3 tall glass candle holder pink,2,2009-12-01 11:58:00,12.75,13394.0,United Kingdom,25.5,1,Tuesday,False,False
+489532,84270,Asstd design bubble gum ring,30,2009-12-01 11:58:00,0.21,13394.0,United Kingdom,6.3,1,Tuesday,False,False
+489532,85049C,Romantic pinks ribbons,12,2009-12-01 11:58:00,1.25,13394.0,United Kingdom,15.0,1,Tuesday,False,False
+489533,84352,Silver christmas tree bauble stand,1,2009-12-01 12:02:00,16.95,16011.0,United Kingdom,16.95,1,Tuesday,False,False
+489533,79067,Corona mexican tray,1,2009-12-01 12:02:00,3.75,16011.0,United Kingdom,3.75,1,Tuesday,False,False
+489533,22203,Milk pan red retrospot,1,2009-12-01 12:02:00,3.75,16011.0,United Kingdom,3.75,1,Tuesday,False,False
+489533,21353,Silver sleighbell  wreath,4,2009-12-01 12:02:00,7.95,16011.0,United Kingdom,31.8,1,Tuesday,False,False
+489533,84946,Antique silver tea glass etched,6,2009-12-01 12:02:00,1.25,16011.0,United Kingdom,7.5,1,Tuesday,False,False
+489533,22300,Coffee mug dog + ball design,6,2009-12-01 12:02:00,2.55,16011.0,United Kingdom,15.299999999999999,1,Tuesday,False,False
+489533,21535,Retro spot small milk jug,1,2009-12-01 12:02:00,2.55,16011.0,United Kingdom,2.55,1,Tuesday,False,False
+489533,21540,Dairy maid ceramic butter dish,2,2009-12-01 12:02:00,4.25,16011.0,United Kingdom,8.5,1,Tuesday,False,False
+489533,21538,Dairy maid  pudding bowl,1,2009-12-01 12:02:00,3.75,16011.0,United Kingdom,3.75,1,Tuesday,False,False
+489533,22073,Retro spot storage jar,1,2009-12-01 12:02:00,3.75,16011.0,United Kingdom,3.75,1,Tuesday,False,False
+489533,21534,Dairy maid large milk jug,1,2009-12-01 12:02:00,4.95,16011.0,United Kingdom,4.95,1,Tuesday,False,False
+489533,21533,Retro spot large milk jug,1,2009-12-01 12:02:00,4.95,16011.0,United Kingdom,4.95,1,Tuesday,False,False
+489533,84836,Zinc metal heart decoration,12,2009-12-01 12:02:00,1.25,16011.0,United Kingdom,15.0,1,Tuesday,False,False
+489533,85053,French enamel candleholder,2,2009-12-01 12:02:00,2.1,16011.0,United Kingdom,4.2,1,Tuesday,False,False
+489533,21756,Bath building block word,1,2009-12-01 12:02:00,5.95,16011.0,United Kingdom,5.95,1,Tuesday,False,False
+489533,22118,Joy wooden block letters,1,2009-12-01 12:02:00,4.95,16011.0,United Kingdom,4.95,1,Tuesday,False,False
+489533,21754,Home building block word,2,2009-12-01 12:02:00,5.95,16011.0,United Kingdom,11.9,1,Tuesday,False,False
+489533,84970S,Hanging heart zinc t-light holder,12,2009-12-01 12:02:00,0.85,16011.0,United Kingdom,10.2,1,Tuesday,False,False
+489533,21755,Love building block word,2,2009-12-01 12:02:00,5.95,16011.0,United Kingdom,11.9,1,Tuesday,False,False
+489536,21375,Large camphor wood field mushroom,2,2009-12-01 12:13:00,5.45,16393.0,United Kingdom,10.9,1,Tuesday,False,False
+489536,22109,Full english breakfast plate,1,2009-12-01 12:13:00,3.75,16393.0,United Kingdom,3.75,1,Tuesday,False,False
+489536,21864,Union jack flag passport cover,1,2009-12-01 12:13:00,2.1,16393.0,United Kingdom,2.1,1,Tuesday,False,False
+489536,48129,Door mat topiary,1,2009-12-01 12:13:00,6.75,16393.0,United Kingdom,6.75,1,Tuesday,False,False
+489536,22186,Red star card holder,1,2009-12-01 12:13:00,2.95,16393.0,United Kingdom,2.95,1,Tuesday,False,False
+489536,47504K,English rose garden secateurs,2,2009-12-01 12:13:00,1.95,16393.0,United Kingdom,3.9,1,Tuesday,False,False
+489536,47504F,English rose torch,2,2009-12-01 12:13:00,1.65,16393.0,United Kingdom,3.3,1,Tuesday,False,False
+489536,21809,Christmas hanging tree with bell,1,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,1.25,1,Tuesday,False,False
+489536,22075,6 ribbons elegant christmas,1,2009-12-01 12:13:00,1.65,16393.0,United Kingdom,1.65,1,Tuesday,False,False
+489536,21186,White dove honeycomb paper garland,2,2009-12-01 12:13:00,1.65,16393.0,United Kingdom,3.3,1,Tuesday,False,False
+489536,22086,Paper chain kit 50's christmas,1,2009-12-01 12:13:00,2.95,16393.0,United Kingdom,2.95,1,Tuesday,False,False
+489536,21611,Set of 12 lily botanical t-lights,2,2009-12-01 12:13:00,2.95,16393.0,United Kingdom,5.9,1,Tuesday,False,False
+489536,22113,Grey heart hot water bottle,2,2009-12-01 12:13:00,3.45,16393.0,United Kingdom,6.9,1,Tuesday,False,False
+489536,21480,Pink stripe hot water bottle,1,2009-12-01 12:13:00,2.95,16393.0,United Kingdom,2.95,1,Tuesday,False,False
+489536,22295,Heart filigree dove large,2,2009-12-01 12:13:00,1.65,16393.0,United Kingdom,3.3,1,Tuesday,False,False
+489536,85170A,Set/6 ivory bird t-light candles,1,2009-12-01 12:13:00,2.1,16393.0,United Kingdom,2.1,1,Tuesday,False,False
+489536,85033S,Set/6 silver reindeer t-lights,1,2009-12-01 12:13:00,1.95,16393.0,United Kingdom,1.95,1,Tuesday,False,False
+489536,35991,Set/6 black snowflake t-lights,1,2009-12-01 12:13:00,1.69,16393.0,United Kingdom,1.69,1,Tuesday,False,False
+489536,22185,Slate tile natural hanging,2,2009-12-01 12:13:00,1.65,16393.0,United Kingdom,3.3,1,Tuesday,False,False
+489536,21786,Rain hat with red spots,1,2009-12-01 12:13:00,0.42,16393.0,United Kingdom,0.42,1,Tuesday,False,False
+489536,20752,Retro blue spotty washing up gloves,1,2009-12-01 12:13:00,2.1,16393.0,United Kingdom,2.1,1,Tuesday,False,False
+489536,20754,Retro red spotty washing up gloves,1,2009-12-01 12:13:00,2.1,16393.0,United Kingdom,2.1,1,Tuesday,False,False
+489536,84388,Wise man star shape egg pan,1,2009-12-01 12:13:00,1.65,16393.0,United Kingdom,1.65,1,Tuesday,False,False
+489536,21865,Pink union jack  passport cover,1,2009-12-01 12:13:00,2.1,16393.0,United Kingdom,2.1,1,Tuesday,False,False
+489536,21832,Chocolate calculator,1,2009-12-01 12:13:00,1.65,16393.0,United Kingdom,1.65,1,Tuesday,False,False
+489536,85071A,Blue charlie+lola personal doorsign,1,2009-12-01 12:13:00,2.95,16393.0,United Kingdom,2.95,1,Tuesday,False,False
+489536,85071B,Red charlie+lola personal doorsign,1,2009-12-01 12:13:00,2.95,16393.0,United Kingdom,2.95,1,Tuesday,False,False
+489536,21948,Set of 6 cake chopsticks,1,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,1.25,1,Tuesday,False,False
+489536,21791,Vintage heads and tails card game,2,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,2.5,1,Tuesday,False,False
+489536,21918,Set 12 kids colour  chalk sticks,2,2009-12-01 12:13:00,0.42,16393.0,United Kingdom,0.84,1,Tuesday,False,False
+489536,21493,Vintage design gift tags,2,2009-12-01 12:13:00,0.85,16393.0,United Kingdom,1.7,1,Tuesday,False,False
+489536,21491,Set of three vintage gift wraps,2,2009-12-01 12:13:00,1.95,16393.0,United Kingdom,3.9,1,Tuesday,False,False
+489536,51012C,"Feather duster, coal black",1,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,1.25,1,Tuesday,False,False
+489536,21034,Rex cash+carry jumbo shopper,1,2009-12-01 12:13:00,0.95,16393.0,United Kingdom,0.95,1,Tuesday,False,False
+489536,84671B,Crochet bear with blue stripes,1,2009-12-01 12:13:00,2.55,16393.0,United Kingdom,2.55,1,Tuesday,False,False
+489536,21747,Small skull windmill,1,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,1.25,1,Tuesday,False,False
+489536,22197,"Popcorn holder , small",1,2009-12-01 12:13:00,0.85,16393.0,United Kingdom,0.85,1,Tuesday,False,False
+489536,22107,Pizza plate in box,1,2009-12-01 12:13:00,3.75,16393.0,United Kingdom,3.75,1,Tuesday,False,False
+489536,22330,72 round pink doilies,1,2009-12-01 12:13:00,1.45,16393.0,United Kingdom,1.45,1,Tuesday,False,False
+489536,22139,Retro spot tea set ceramic 11 pc,1,2009-12-01 12:13:00,4.95,16393.0,United Kingdom,4.95,1,Tuesday,False,False
+489536,84375,Set of 20 kids cookie cutters,1,2009-12-01 12:13:00,1.95,16393.0,United Kingdom,1.95,1,Tuesday,False,False
+489536,84952B,Black love bird t-light holder,2,2009-12-01 12:13:00,3.75,16393.0,United Kingdom,7.5,1,Tuesday,False,False
+489536,20961,Strawberry bath sponge,1,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,1.25,1,Tuesday,False,False
+489536,20960,Watermelon bath sponge,1,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,1.25,1,Tuesday,False,False
+489536,20966,Sandwich bath sponge,1,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,1.25,1,Tuesday,False,False
+489536,17164D,Ass col small sand frog p'weight,1,2009-12-01 12:13:00,0.42,16393.0,United Kingdom,0.42,1,Tuesday,False,False
+489536,21890,S/6 wooden skittles in cotton bag,1,2009-12-01 12:13:00,2.95,16393.0,United Kingdom,2.95,1,Tuesday,False,False
+489536,22353,Lunchbox with cutlery fairy cakes,1,2009-12-01 12:13:00,2.55,16393.0,United Kingdom,2.55,1,Tuesday,False,False
+489536,85170D,Set/6 pink bird t-light candles,1,2009-12-01 12:13:00,2.1,16393.0,United Kingdom,2.1,1,Tuesday,False,False
+489536,17091J,Vanilla incense in tin,1,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,1.25,1,Tuesday,False,False
+489536,79067,Corona mexican tray,1,2009-12-01 12:13:00,3.75,16393.0,United Kingdom,3.75,1,Tuesday,False,False
+489536,20975,12 pencils small tube red spotty,7,2009-12-01 12:13:00,0.65,16393.0,United Kingdom,4.55,1,Tuesday,False,False
+489536,20677,Pink spotty bowl,1,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,1.25,1,Tuesday,False,False
+489536,20675,Blue spotty bowl,1,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,1.25,1,Tuesday,False,False
+489536,20676,Red spotty bowl,2,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,2.5,1,Tuesday,False,False
+489536,21440,12 mini toadstool pegs,1,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,1.25,1,Tuesday,False,False
+489536,22174,Photo cube,2,2009-12-01 12:13:00,1.65,16393.0,United Kingdom,3.3,1,Tuesday,False,False
+489536,22142,Christmas craft white fairy,1,2009-12-01 12:13:00,1.45,16393.0,United Kingdom,1.45,1,Tuesday,False,False
+489536,22150,3 stripey mice feltcraft,2,2009-12-01 12:13:00,1.95,16393.0,United Kingdom,3.9,1,Tuesday,False,False
+489536,22147,Feltcraft butterfly hearts,2,2009-12-01 12:13:00,1.45,16393.0,United Kingdom,2.9,1,Tuesday,False,False
+489536,21356,Toast its - fairy flower,1,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,1.25,1,Tuesday,False,False
+489536,21357,Toast its - dinosaur,1,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,1.25,1,Tuesday,False,False
+489536,21166,Cook with wine metal sign,1,2009-12-01 12:13:00,1.95,16393.0,United Kingdom,1.95,1,Tuesday,False,False
+489536,20728,Lunch bag cars blue,4,2009-12-01 12:13:00,1.65,16393.0,United Kingdom,6.6,1,Tuesday,False,False
+489536,21677,Hearts  stickers,6,2009-12-01 12:13:00,0.85,16393.0,United Kingdom,5.1,1,Tuesday,False,False
+489536,21680,Woodland  stickers,6,2009-12-01 12:13:00,0.85,16393.0,United Kingdom,5.1,1,Tuesday,False,False
+489536,21730,Glass star frosted t-light holder,1,2009-12-01 12:13:00,4.95,16393.0,United Kingdom,4.95,1,Tuesday,False,False
+489536,21788,Kids rain mac blue,1,2009-12-01 12:13:00,0.85,16393.0,United Kingdom,0.85,1,Tuesday,False,False
+489536,21789,Kids rain mac pink,1,2009-12-01 12:13:00,0.85,16393.0,United Kingdom,0.85,1,Tuesday,False,False
+489536,20660,Vip luggage tag,1,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,1.25,1,Tuesday,False,False
+489536,70007,Hi tec alpine hand warmer,1,2009-12-01 12:13:00,1.65,16393.0,United Kingdom,1.65,1,Tuesday,False,False
+489536,70006,Love heart pocket warmer,1,2009-12-01 12:13:00,1.65,16393.0,United Kingdom,1.65,1,Tuesday,False,False
+489536,21650,Assorted tutti frutti bracelet,1,2009-12-01 12:13:00,0.65,16393.0,United Kingdom,0.65,1,Tuesday,False,False
+489536,21892,Traditional wooden catch cup game,1,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,1.25,1,Tuesday,False,False
+489536,85227,Set/6 3d kit cards for kids,1,2009-12-01 12:13:00,0.85,16393.0,United Kingdom,0.85,1,Tuesday,False,False
+489536,20655,Queen of skies luggage tag,1,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,1.25,1,Tuesday,False,False
+489536,21990,Modern floral stationery set,1,2009-12-01 12:13:00,2.95,16393.0,United Kingdom,2.95,1,Tuesday,False,False
+489536,21231,Sweetheart ceramic trinket box,1,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,1.25,1,Tuesday,False,False
+489536,22064,Pink doughnut trinket pot,4,2009-12-01 12:13:00,1.65,16393.0,United Kingdom,6.6,1,Tuesday,False,False
+489536,21934,Skull shoulder bag,1,2009-12-01 12:13:00,1.65,16393.0,United Kingdom,1.65,1,Tuesday,False,False
+489536,21578,Woodland design  cotton tote bag,1,2009-12-01 12:13:00,2.25,16393.0,United Kingdom,2.25,1,Tuesday,False,False
+489536,21579,Lolita  design  cotton tote bag,1,2009-12-01 12:13:00,2.25,16393.0,United Kingdom,2.25,1,Tuesday,False,False
+489536,21577,Save the planet cotton tote bag,2,2009-12-01 12:13:00,2.25,16393.0,United Kingdom,4.5,1,Tuesday,False,False
+489536,21931,Jumbo storage bag suki,5,2009-12-01 12:13:00,1.95,16393.0,United Kingdom,9.75,1,Tuesday,False,False
+489536,85099B,Jumbo bag red white spotty,5,2009-12-01 12:13:00,1.95,16393.0,United Kingdom,9.75,1,Tuesday,False,False
+489536,20713,Jumbo bag owls,1,2009-12-01 12:13:00,1.95,16393.0,United Kingdom,1.95,1,Tuesday,False,False
+489536,20712,Jumbo bag woodland animals,1,2009-12-01 12:13:00,1.95,16393.0,United Kingdom,1.95,1,Tuesday,False,False
+489536,16047,Pop art pen case & pens,1,2009-12-01 12:13:00,0.85,16393.0,United Kingdom,0.85,1,Tuesday,False,False
+489536,21561,Dinosaur lunchbox with cutlery,1,2009-12-01 12:13:00,2.55,16393.0,United Kingdom,2.55,1,Tuesday,False,False
+489536,20814,Silver finch decoration,1,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,1.25,1,Tuesday,False,False
+489536,21122,Set/10 pink spotty party candles,1,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,1.25,1,Tuesday,False,False
+489536,21232,Strawberry ceramic trinket box,3,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,3.75,1,Tuesday,False,False
+489536,84946,Antique silver tea glass etched,6,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,7.5,1,Tuesday,False,False
+489536,22068,Black pirate treasure chest,4,2009-12-01 12:13:00,1.65,16393.0,United Kingdom,6.6,1,Tuesday,False,False
+489536,21377,Small camphor wood field  mushroom,1,2009-12-01 12:13:00,1.65,16393.0,United Kingdom,1.65,1,Tuesday,False,False
+489536,21379,Camphor wood portobello mushroom,1,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,1.25,1,Tuesday,False,False
+489536,20956,Porcelain t-light holders assorted,1,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,1.25,1,Tuesday,False,False
+489536,21018,Bird box christmas tree decoration,1,2009-12-01 12:13:00,0.85,16393.0,United Kingdom,0.85,1,Tuesday,False,False
+489536,35995,Set/6 black glitter reindeer candle,1,2009-12-01 12:13:00,2.1,16393.0,United Kingdom,2.1,1,Tuesday,False,False
+489536,22355,"Charlotte bag , suki design",9,2009-12-01 12:13:00,0.85,16393.0,United Kingdom,7.6499999999999995,1,Tuesday,False,False
+489536,22356,"Charlotte bag , pink/white spots",3,2009-12-01 12:13:00,0.85,16393.0,United Kingdom,2.55,1,Tuesday,False,False
+489536,21581,Skulls  design  cotton tote bag,4,2009-12-01 12:13:00,2.25,16393.0,United Kingdom,9.0,1,Tuesday,False,False
+489536,20727,Lunch bag  black skull.,3,2009-12-01 12:13:00,1.65,16393.0,United Kingdom,4.949999999999999,1,Tuesday,False,False
+489536,21071,Vintage billboard drink me mug,1,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,1.25,1,Tuesday,False,False
+489536,21068,Vintage billboard love/hate mug,1,2009-12-01 12:13:00,1.25,16393.0,United Kingdom,1.25,1,Tuesday,False,False
+489536,22189,Cream heart card holder,1,2009-12-01 12:13:00,3.95,16393.0,United Kingdom,3.95,1,Tuesday,False,False
+489536,48179,Door mat sweet home,1,2009-12-01 12:13:00,6.75,16393.0,United Kingdom,6.75,1,Tuesday,False,False
+489537,48129,Door mat topiary,1,2009-12-01 12:14:00,6.75,14040.0,United Kingdom,6.75,1,Tuesday,False,False
+489537,21523,Fancy font home sweet home doormat,1,2009-12-01 12:14:00,6.75,14040.0,United Kingdom,6.75,1,Tuesday,False,False
+489537,48188,Door mat welcome puppies,2,2009-12-01 12:14:00,6.75,14040.0,United Kingdom,13.5,1,Tuesday,False,False
+489537,48111,Door mat 3 smiley cats,2,2009-12-01 12:14:00,6.75,14040.0,United Kingdom,13.5,1,Tuesday,False,False
+489537,48194,Doormat hearts,2,2009-12-01 12:14:00,6.75,14040.0,United Kingdom,13.5,1,Tuesday,False,False
+489537,20685,Red spotty coir doormat,2,2009-12-01 12:14:00,6.75,14040.0,United Kingdom,13.5,1,Tuesday,False,False
+489537,48195,Door mat green paisley,2,2009-12-01 12:14:00,6.75,14040.0,United Kingdom,13.5,1,Tuesday,False,False
+489537,48184,Door mat english rose,2,2009-12-01 12:14:00,6.75,14040.0,United Kingdom,13.5,1,Tuesday,False,False
+489537,21733,Red hanging heart t-light holder,10,2009-12-01 12:14:00,2.95,14040.0,United Kingdom,29.5,1,Tuesday,False,False
+489537,21777,Recipe box with metal heart,4,2009-12-01 12:14:00,7.95,14040.0,United Kingdom,31.8,1,Tuesday,False,False
+489537,20969,Red floral feltcraft shoulder bag,4,2009-12-01 12:14:00,3.75,14040.0,United Kingdom,15.0,1,Tuesday,False,False
+489537,20970,Pink floral feltcraft shoulder bag,4,2009-12-01 12:14:00,3.75,14040.0,United Kingdom,15.0,1,Tuesday,False,False
+489537,20968,Green floral feltcraft shoulder bag,4,2009-12-01 12:14:00,3.75,14040.0,United Kingdom,15.0,1,Tuesday,False,False
+489537,20967,Grey floral feltcraft shoulder bag,2,2009-12-01 12:14:00,3.75,14040.0,United Kingdom,7.5,1,Tuesday,False,False
+489537,21737,Set 3 wicker log baskets,1,2009-12-01 12:14:00,19.95,14040.0,United Kingdom,19.95,1,Tuesday,False,False
+489537,84899E,Yellow + brown bear felt purse kit,2,2009-12-01 12:14:00,1.25,14040.0,United Kingdom,2.5,1,Tuesday,False,False
+489537,84899F,Yellow purple daisy felt purse kit,3,2009-12-01 12:14:00,1.25,14040.0,United Kingdom,3.75,1,Tuesday,False,False
+489537,84898F,Yellow flowers felt handbag kit,5,2009-12-01 12:14:00,2.1,14040.0,United Kingdom,10.5,1,Tuesday,False,False
+489537,20971,Pink blue felt craft trinket box,5,2009-12-01 12:14:00,1.25,14040.0,United Kingdom,6.25,1,Tuesday,False,False
+489537,20972,Pink cream felt craft trinket box,5,2009-12-01 12:14:00,1.25,14040.0,United Kingdom,6.25,1,Tuesday,False,False
+489537,22207,Frying pan union flag,1,2009-12-01 12:14:00,4.25,14040.0,United Kingdom,4.25,1,Tuesday,False,False
+489537,21016,Light bird house tree decoration,1,2009-12-01 12:14:00,0.85,14040.0,United Kingdom,0.85,1,Tuesday,False,False
+489537,22115,Metal sign empire tea,1,2009-12-01 12:14:00,2.95,14040.0,United Kingdom,2.95,1,Tuesday,False,False
+489537,22273,Feltcraft doll molly,2,2009-12-01 12:14:00,2.95,14040.0,United Kingdom,5.9,1,Tuesday,False,False
+489537,20828,Glitter butterfly clips,6,2009-12-01 12:14:00,2.55,14040.0,United Kingdom,15.299999999999999,1,Tuesday,False,False
+489537,20829,Glitter hanging butterfly string,6,2009-12-01 12:14:00,2.1,14040.0,United Kingdom,12.600000000000001,1,Tuesday,False,False
+489537,85231B,Cinammon set of 9 t-lights,5,2009-12-01 12:14:00,0.85,14040.0,United Kingdom,4.25,1,Tuesday,False,False
+489537,85231G,Orange scented set/9 t-lights,5,2009-12-01 12:14:00,0.85,14040.0,United Kingdom,4.25,1,Tuesday,False,False
+489537,21407,Brown check cat doorstop,1,2009-12-01 12:14:00,4.25,14040.0,United Kingdom,4.25,1,Tuesday,False,False
+489537,21410,Country cottage  doorstop green,2,2009-12-01 12:14:00,4.25,14040.0,United Kingdom,8.5,1,Tuesday,False,False
+489537,72800F,4 ivory dinner candles gold flock,1,2009-12-01 12:14:00,2.55,14040.0,United Kingdom,2.55,1,Tuesday,False,False
+489537,21411,Gingham heart  doorstop red,4,2009-12-01 12:14:00,4.25,14040.0,United Kingdom,17.0,1,Tuesday,False,False
+489537,21993,Floral folk stationery set,3,2009-12-01 12:14:00,2.95,14040.0,United Kingdom,8.850000000000001,1,Tuesday,False,False
+489537,84032B,Charlie + lola red hot water bottle,4,2009-12-01 12:14:00,2.95,14040.0,United Kingdom,11.8,1,Tuesday,False,False
+489537,22125,Union jack hot water bottle,3,2009-12-01 12:14:00,5.95,14040.0,United Kingdom,17.85,1,Tuesday,False,False
+489537,84032A,Charlie+lola pink hot water bottle,4,2009-12-01 12:14:00,2.95,14040.0,United Kingdom,11.8,1,Tuesday,False,False
+489537,21482,Mushroom blue hot water bottle,3,2009-12-01 12:14:00,2.95,14040.0,United Kingdom,8.850000000000001,1,Tuesday,False,False
+489537,21479,White skull hot water bottle,2,2009-12-01 12:14:00,3.75,14040.0,United Kingdom,7.5,1,Tuesday,False,False
+489537,21480,Pink stripe hot water bottle,5,2009-12-01 12:14:00,2.95,14040.0,United Kingdom,14.75,1,Tuesday,False,False
+489537,21486,Pink heart dots hot water bottle,2,2009-12-01 12:14:00,3.75,14040.0,United Kingdom,7.5,1,Tuesday,False,False
+489537,21481,Fawn blue hot water bottle,3,2009-12-01 12:14:00,2.95,14040.0,United Kingdom,8.850000000000001,1,Tuesday,False,False
+489537,72008,Frosted box 9 white t-light candles,24,2009-12-01 12:14:00,0.42,14040.0,United Kingdom,10.08,1,Tuesday,False,False
+489537,21231,Sweetheart ceramic trinket box,20,2009-12-01 12:14:00,1.25,14040.0,United Kingdom,25.0,1,Tuesday,False,False
+489537,21232,Strawberry ceramic trinket box,20,2009-12-01 12:14:00,1.25,14040.0,United Kingdom,25.0,1,Tuesday,False,False
+489537,21813,Garland with stars and bells,1,2009-12-01 12:14:00,4.95,14040.0,United Kingdom,4.95,1,Tuesday,False,False
+489537,21812,Garland with hearts and bells,4,2009-12-01 12:14:00,4.95,14040.0,United Kingdom,19.8,1,Tuesday,False,False
+489537,21489,Blue white scarf hot water bottle,3,2009-12-01 12:14:00,3.95,14040.0,United Kingdom,11.850000000000001,1,Tuesday,False,False
+489537,21488,Red white scarf  hot water bottle,3,2009-12-01 12:14:00,3.95,14040.0,United Kingdom,11.850000000000001,1,Tuesday,False,False
+489537,84029E,Red woolly hottie white heart.,1,2009-12-01 12:14:00,3.75,14040.0,United Kingdom,3.75,1,Tuesday,False,False
+489537,75013B,"String of 8 butterflies,pink",3,2009-12-01 12:14:00,1.65,14040.0,United Kingdom,4.949999999999999,1,Tuesday,False,False
+489537,72800E,4 ivory dinner candles silver flock,4,2009-12-01 12:14:00,2.55,14040.0,United Kingdom,10.2,1,Tuesday,False,False
+489537,72801G,S/4 burgundy wine dinner candles,3,2009-12-01 12:14:00,1.25,14040.0,United Kingdom,3.75,1,Tuesday,False,False
+489537,72801F,S/4 festive red dinner candles,6,2009-12-01 12:14:00,1.25,14040.0,United Kingdom,7.5,1,Tuesday,False,False
+489537,72801E,S/4 festive green dinner candles,6,2009-12-01 12:14:00,1.25,14040.0,United Kingdom,7.5,1,Tuesday,False,False
+489537,21790,Vintage snap cards,11,2009-12-01 12:14:00,0.85,14040.0,United Kingdom,9.35,1,Tuesday,False,False
+489537,21791,Vintage heads and tails card game,6,2009-12-01 12:14:00,1.25,14040.0,United Kingdom,7.5,1,Tuesday,False,False
+489537,21888,Bingo set,3,2009-12-01 12:14:00,3.75,14040.0,United Kingdom,11.25,1,Tuesday,False,False
+489537,21351,Cinammon & orange wreath,2,2009-12-01 12:14:00,6.75,14040.0,United Kingdom,13.5,1,Tuesday,False,False
+489540,21732,Red hanging metal star tlight hldr,24,2009-12-01 12:18:00,3.39,12913.0,United Kingdom,81.36,1,Tuesday,False,False
+489540,21754,Home building block word,24,2009-12-01 12:18:00,5.45,12913.0,United Kingdom,130.8,1,Tuesday,False,False
+489540,22083,Paper chain kit retro spot,58,2009-12-01 12:18:00,2.55,12913.0,United Kingdom,147.89999999999998,1,Tuesday,False,False
+489540,22086,Paper chain kit 50's christmas,58,2009-12-01 12:18:00,2.55,12913.0,United Kingdom,147.89999999999998,1,Tuesday,False,False
+489540,84946,Antique silver tea glass etched,24,2009-12-01 12:18:00,1.25,12913.0,United Kingdom,30.0,1,Tuesday,False,False
+489539,22086,Paper chain kit 50's christmas,160,2009-12-01 12:18:00,2.55,15061.0,United Kingdom,408.0,1,Tuesday,False,False
+489539,22083,Paper chain kit retro spot,160,2009-12-01 12:18:00,2.55,15061.0,United Kingdom,408.0,1,Tuesday,False,False
+489539,85041,Set/4 pink orchid candles in bowl,48,2009-12-01 12:18:00,1.45,15061.0,United Kingdom,69.6,1,Tuesday,False,False
+489539,85040B,Set/4 blue flower candles in bowl,192,2009-12-01 12:18:00,1.45,15061.0,United Kingdom,278.4,1,Tuesday,False,False
+489539,84879,Assorted colour bird ornament,96,2009-12-01 12:18:00,1.69,15061.0,United Kingdom,162.24,1,Tuesday,False,False
+489539,79323P,Pink cherry lights,24,2009-12-01 12:18:00,5.45,15061.0,United Kingdom,130.8,1,Tuesday,False,False
+489539,48184,Door mat english rose,20,2009-12-01 12:18:00,5.95,15061.0,United Kingdom,119.0,1,Tuesday,False,False
+489539,37461,Funky monkey mug,96,2009-12-01 12:18:00,0.85,15061.0,United Kingdom,81.6,1,Tuesday,False,False
+489539,22139,Retro spot tea set ceramic 11 pc,72,2009-12-01 12:18:00,4.25,15061.0,United Kingdom,306.0,1,Tuesday,False,False
+489539,21700,Big doughnut fridge magnets,144,2009-12-01 12:18:00,0.85,15061.0,United Kingdom,122.39999999999999,1,Tuesday,False,False
+489539,21673,White spot blue ceramic drawer knob,60,2009-12-01 12:18:00,1.06,15061.0,United Kingdom,63.6,1,Tuesday,False,False
+489539,21671,Red spot ceramic drawer knob,60,2009-12-01 12:18:00,1.06,15061.0,United Kingdom,63.6,1,Tuesday,False,False
+489539,21669,Blue stripe ceramic drawer knob,60,2009-12-01 12:18:00,1.06,15061.0,United Kingdom,63.6,1,Tuesday,False,False
+489539,21500,Pink spots  wrap,100,2009-12-01 12:18:00,0.34,15061.0,United Kingdom,34.0,1,Tuesday,False,False
+489539,20692,Floral elephant soft toy,96,2009-12-01 12:18:00,3.75,15061.0,United Kingdom,360.0,1,Tuesday,False,False
+489539,20685,Red spotty coir doormat,30,2009-12-01 12:18:00,5.95,15061.0,United Kingdom,178.5,1,Tuesday,False,False
+489539,16237,Sleeping cat erasers,180,2009-12-01 12:18:00,0.21,15061.0,United Kingdom,37.8,1,Tuesday,False,False
+489542,37410,Black and white paisley flower mug,216,2009-12-01 12:19:00,0.85,15061.0,United Kingdom,183.6,1,Tuesday,False,False
+489542,22139,Retro spot tea set ceramic 11 pc,48,2009-12-01 12:19:00,4.25,15061.0,United Kingdom,204.0,1,Tuesday,False,False
+489544,22086,Paper chain kit 50's christmas,18,2009-12-01 12:20:00,2.95,14341.0,United Kingdom,53.1,1,Tuesday,False,False
+489544,84347,Rotating silver angels t-light hldr,18,2009-12-01 12:20:00,2.55,14341.0,United Kingdom,45.9,1,Tuesday,False,False
+489544,22065,Christmas pudding trinket pot,12,2009-12-01 12:20:00,1.45,14341.0,United Kingdom,17.4,1,Tuesday,False,False
+489544,21813,Garland with stars and bells,6,2009-12-01 12:20:00,4.95,14341.0,United Kingdom,29.700000000000003,1,Tuesday,False,False
+489544,84251F,"Greeting card, rita",12,2009-12-01 12:20:00,0.19,14341.0,United Kingdom,2.2800000000000002,1,Tuesday,False,False
+489544,20975,12 pencils small tube red spotty,24,2009-12-01 12:20:00,0.65,14341.0,United Kingdom,15.600000000000001,1,Tuesday,False,False
+489544,21080,Set/20 red spotty paper napkins,12,2009-12-01 12:20:00,0.85,14341.0,United Kingdom,10.2,1,Tuesday,False,False
+489544,21844,Retro spot mug,6,2009-12-01 12:20:00,2.95,14341.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489544,22070,Small retro spot mug in box  red,6,2009-12-01 12:20:00,3.75,14341.0,United Kingdom,22.5,1,Tuesday,False,False
+489544,21980,Pack of 12 red spotty tissues,48,2009-12-01 12:20:00,0.29,14341.0,United Kingdom,13.919999999999998,1,Tuesday,False,False
+489544,21967,Pack of 12 skull tissues,48,2009-12-01 12:20:00,0.29,14341.0,United Kingdom,13.919999999999998,1,Tuesday,False,False
+489544,22125,Union jack hot water bottle,3,2009-12-01 12:20:00,5.95,14341.0,United Kingdom,17.85,1,Tuesday,False,False
+489544,21364,Peace small wood letters,1,2009-12-01 12:20:00,6.75,14341.0,United Kingdom,6.75,1,Tuesday,False,False
+489544,21809,Christmas hanging tree with bell,12,2009-12-01 12:20:00,1.25,14341.0,United Kingdom,15.0,1,Tuesday,False,False
+489545,90062,Carnival bracelet,1,2009-12-01 12:22:00,12.75,17804.0,United Kingdom,12.75,1,Tuesday,False,False
+489545,21480,Pink stripe hot water bottle,2,2009-12-01 12:22:00,2.95,17804.0,United Kingdom,5.9,1,Tuesday,False,False
+489545,22110,Bird house hot water bottle,1,2009-12-01 12:22:00,3.45,17804.0,United Kingdom,3.45,1,Tuesday,False,False
+489545,22113,Grey heart hot water bottle,1,2009-12-01 12:22:00,3.45,17804.0,United Kingdom,3.45,1,Tuesday,False,False
+489545,21484,Chick grey hot water bottle,2,2009-12-01 12:22:00,3.45,17804.0,United Kingdom,6.9,1,Tuesday,False,False
+489545,20914,Set/5 red spotty lid glass bowls,1,2009-12-01 12:22:00,2.95,17804.0,United Kingdom,2.95,1,Tuesday,False,False
+489545,84977,Wire flower t-light holder,6,2009-12-01 12:22:00,1.25,17804.0,United Kingdom,7.5,1,Tuesday,False,False
+489545,21868,Potting shed tea mug,1,2009-12-01 12:22:00,1.25,17804.0,United Kingdom,1.25,1,Tuesday,False,False
+489545,18010,Assorted fragrance bath confetti,6,2009-12-01 12:22:00,0.42,17804.0,United Kingdom,2.52,1,Tuesday,False,False
+489545,21162,Toxic area  door hanger,1,2009-12-01 12:22:00,1.45,17804.0,United Kingdom,1.45,1,Tuesday,False,False
+489545,37370,Retro coffee mugs assorted,2,2009-12-01 12:22:00,1.25,17804.0,United Kingdom,2.5,1,Tuesday,False,False
+489545,22152,Place setting white star,15,2009-12-01 12:22:00,0.42,17804.0,United Kingdom,6.3,1,Tuesday,False,False
+489545,72267,Premium church candle,3,2009-12-01 12:22:00,2.1,17804.0,United Kingdom,6.300000000000001,1,Tuesday,False,False
+489545,22139,Retro spot tea set ceramic 11 pc,4,2009-12-01 12:22:00,4.95,17804.0,United Kingdom,19.8,1,Tuesday,False,False
+489545,22143,Christmas craft heart decorations,1,2009-12-01 12:22:00,2.1,17804.0,United Kingdom,2.1,1,Tuesday,False,False
+489545,22197,"Popcorn holder , small",3,2009-12-01 12:22:00,0.85,17804.0,United Kingdom,2.55,1,Tuesday,False,False
+489545,22081,Ribbon reel flora + fauna,1,2009-12-01 12:22:00,1.65,17804.0,United Kingdom,1.65,1,Tuesday,False,False
+489545,22079,Ribbon reel hearts design,1,2009-12-01 12:22:00,1.65,17804.0,United Kingdom,1.65,1,Tuesday,False,False
+489545,22273,Feltcraft doll molly,1,2009-12-01 12:22:00,2.95,17804.0,United Kingdom,2.95,1,Tuesday,False,False
+489545,22272,Feltcraft doll maria,1,2009-12-01 12:22:00,2.95,17804.0,United Kingdom,2.95,1,Tuesday,False,False
+489545,22274,Feltcraft doll emily,1,2009-12-01 12:22:00,2.95,17804.0,United Kingdom,2.95,1,Tuesday,False,False
+489545,21124,Set/10 blue spotty party candles,1,2009-12-01 12:22:00,1.25,17804.0,United Kingdom,1.25,1,Tuesday,False,False
+489545,21122,Set/10 pink spotty party candles,1,2009-12-01 12:22:00,1.25,17804.0,United Kingdom,1.25,1,Tuesday,False,False
+489545,20758,Abstract circles pocket book,3,2009-12-01 12:22:00,0.85,17804.0,United Kingdom,2.55,1,Tuesday,False,False
+489545,20756,Green fern pocket book,3,2009-12-01 12:22:00,0.85,17804.0,United Kingdom,2.55,1,Tuesday,False,False
+489545,21126,Set of 6 girls celebration candles,1,2009-12-01 12:22:00,1.25,17804.0,United Kingdom,1.25,1,Tuesday,False,False
+489545,21125,Set 6 football celebration candles,1,2009-12-01 12:22:00,1.25,17804.0,United Kingdom,1.25,1,Tuesday,False,False
+489545,22154,Angel decoration 3 buttons,8,2009-12-01 12:22:00,0.42,17804.0,United Kingdom,3.36,1,Tuesday,False,False
+489545,22102,Mirror mosaic t-light holder,3,2009-12-01 12:22:00,1.65,17804.0,United Kingdom,4.949999999999999,1,Tuesday,False,False
+489545,35955,Small folkart christmas tree dec,4,2009-12-01 12:22:00,0.42,17804.0,United Kingdom,1.68,1,Tuesday,False,False
+489545,35954,Small folkart star christmas dec,6,2009-12-01 12:22:00,0.42,17804.0,United Kingdom,2.52,1,Tuesday,False,False
+489545,35957,Smallfolkart bauble christmas dec,6,2009-12-01 12:22:00,0.42,17804.0,United Kingdom,2.52,1,Tuesday,False,False
+489546,84050,Pink heart shape egg frying pan,6,2009-12-01 12:30:00,1.65,14156.0,Eire,9.899999999999999,1,Tuesday,False,False
+489546,47568,English rose design peg bag,6,2009-12-01 12:30:00,2.1,14156.0,Eire,12.600000000000001,1,Tuesday,False,False
+489546,84782A,Pink 3 tier glass plate stand,2,2009-12-01 12:30:00,12.75,14156.0,Eire,25.5,1,Tuesday,False,False
+489546,84782C,Green 3 tier glass plate stand,1,2009-12-01 12:30:00,12.75,14156.0,Eire,12.75,1,Tuesday,False,False
+489546,21232,Strawberry ceramic trinket box,12,2009-12-01 12:30:00,1.25,14156.0,Eire,15.0,1,Tuesday,False,False
+489546,21231,Sweetheart ceramic trinket box,12,2009-12-01 12:30:00,1.25,14156.0,Eire,15.0,1,Tuesday,False,False
+489546,22186,Red star card holder,6,2009-12-01 12:30:00,2.95,14156.0,Eire,17.700000000000003,1,Tuesday,False,False
+489546,22169,Family album white picture frame,4,2009-12-01 12:30:00,8.5,14156.0,Eire,34.0,1,Tuesday,False,False
+489546,82494L,Wooden frame antique white,6,2009-12-01 12:30:00,2.95,14156.0,Eire,17.700000000000003,1,Tuesday,False,False
+489546,84933A,Large green peony folding stool,6,2009-12-01 12:30:00,2.1,14156.0,Eire,12.600000000000001,1,Tuesday,False,False
+489546,84933B,Large pink peony folding stool,6,2009-12-01 12:30:00,2.1,14156.0,Eire,12.600000000000001,1,Tuesday,False,False
+489546,22201,Frying pan blue polkadot,4,2009-12-01 12:30:00,4.25,14156.0,Eire,17.0,1,Tuesday,False,False
+489546,37503,Tea time cake stand in gift box,4,2009-12-01 12:30:00,10.75,14156.0,Eire,43.0,1,Tuesday,False,False
+489546,48185,Door mat fairy cake,4,2009-12-01 12:30:00,6.75,14156.0,Eire,27.0,1,Tuesday,False,False
+489547,22086,Paper chain kit 50's christmas,18,2009-12-01 12:30:00,2.95,13599.0,United Kingdom,53.1,1,Tuesday,False,False
+489547,21871,Save the planet mug,12,2009-12-01 12:30:00,1.25,13599.0,United Kingdom,15.0,1,Tuesday,False,False
+489547,21875,Kings choice mug,12,2009-12-01 12:30:00,1.25,13599.0,United Kingdom,15.0,1,Tuesday,False,False
+489547,21587,Cosy hour giant tube matches,12,2009-12-01 12:30:00,2.55,13599.0,United Kingdom,30.599999999999998,1,Tuesday,False,False
+489547,21593,Swallow cigar box matches,24,2009-12-01 12:30:00,1.25,13599.0,United Kingdom,30.0,1,Tuesday,False,False
+489547,21591,Cosy hour cigar box matches,24,2009-12-01 12:30:00,1.25,13599.0,United Kingdom,30.0,1,Tuesday,False,False
+489547,21590,Kings choice cigar box matches,24,2009-12-01 12:30:00,1.25,13599.0,United Kingdom,30.0,1,Tuesday,False,False
+489547,22083,Paper chain kit retro spot,6,2009-12-01 12:30:00,2.95,13599.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489547,22085,Paper chain kit skulls,6,2009-12-01 12:30:00,2.95,13599.0,United Kingdom,17.700000000000003,1,Tuesday,False,False
+489547,21493,Vintage design gift tags,12,2009-12-01 12:30:00,0.85,13599.0,United Kingdom,10.2,1,Tuesday,False,False
+489547,22138,Baking set 9 piece retrospot,3,2009-12-01 12:30:00,4.95,13599.0,United Kingdom,14.850000000000001,1,Tuesday,False,False
+489547,21930,Jumbo storage bag skulls,10,2009-12-01 12:30:00,1.95,13599.0,United Kingdom,19.5,1,Tuesday,False,False
+489547,85099B,Jumbo bag red white spotty,10,2009-12-01 12:30:00,1.95,13599.0,United Kingdom,19.5,1,Tuesday,False,False
+489547,85099C,Jumbo  bag baroque black white,10,2009-12-01 12:30:00,1.95,13599.0,United Kingdom,19.5,1,Tuesday,False,False
+489547,20719,Woodland charlotte bag,10,2009-12-01 12:30:00,0.85,13599.0,United Kingdom,8.5,1,Tuesday,False,False
+489547,22356,"Charlotte bag , pink/white spots",100,2009-12-01 12:30:00,0.72,13599.0,United Kingdom,72.0,1,Tuesday,False,False
+489547,20724,Red spotty charlotte bag,10,2009-12-01 12:30:00,0.85,13599.0,United Kingdom,8.5,1,Tuesday,False,False
+489547,20727,Lunch bag  black skull.,10,2009-12-01 12:30:00,1.65,13599.0,United Kingdom,16.5,1,Tuesday,False,False
+489547,20726,Lunch bag woodland,10,2009-12-01 12:30:00,1.65,13599.0,United Kingdom,16.5,1,Tuesday,False,False
+489547,20725,Lunch bag red spotty,20,2009-12-01 12:30:00,1.65,13599.0,United Kingdom,33.0,1,Tuesday,False,False
+489547,22348,Tea bag plate red spotty,12,2009-12-01 12:30:00,0.85,13599.0,United Kingdom,10.2,1,Tuesday,False,False
+489547,85061W,White jewelled heart decoration,240,2009-12-01 12:30:00,0.64,13599.0,United Kingdom,153.6,1,Tuesday,False,False
+489546,48188,Door mat welcome puppies,2,2009-12-01 12:30:00,6.75,14156.0,Eire,13.5,1,Tuesday,False,False
+489546,48194,Doormat hearts,2,2009-12-01 12:30:00,6.75,14156.0,Eire,13.5,1,Tuesday,False,False
+489546,48129,Door mat topiary,2,2009-12-01 12:30:00,6.75,14156.0,Eire,13.5,1,Tuesday,False,False
+489546,84997D,Pink 3 piece mini dots cutlery set,6,2009-12-01 12:30:00,3.75,14156.0,Eire,22.5,1,Tuesday,False,False
+489546,21781,Ma campagne cutlery box,1,2009-12-01 12:30:00,14.95,14156.0,Eire,14.95,1,Tuesday,False,False
+489546,22111,Scottie dog hot water bottle,3,2009-12-01 12:30:00,4.95,14156.0,Eire,14.850000000000001,1,Tuesday,False,False
+489546,21485,Red spot heart hot water bottle,3,2009-12-01 12:30:00,4.95,14156.0,Eire,14.850000000000001,1,Tuesday,False,False
+489546,21484,Chick grey hot water bottle,4,2009-12-01 12:30:00,3.45,14156.0,Eire,13.8,1,Tuesday,False,False
+489546,20692,Floral elephant soft toy,9,2009-12-01 12:30:00,4.25,14156.0,Eire,38.25,1,Tuesday,False,False
+489546,20768,Green fern journal,6,2009-12-01 12:30:00,2.55,14156.0,Eire,15.299999999999999,1,Tuesday,False,False
+489546,21082,Set/20 fruit salad paper napkins,12,2009-12-01 12:30:00,0.85,14156.0,Eire,10.2,1,Tuesday,False,False
+489546,47591D,Pink fairy cake child's apron,8,2009-12-01 12:30:00,1.95,14156.0,Eire,15.6,1,Tuesday,False,False
+489546,47591B,Scotties des child's apron,8,2009-12-01 12:30:00,1.65,14156.0,Eire,13.2,1,Tuesday,False,False
+489546,21004,Rose du sud childs apron,3,2009-12-01 12:30:00,4.25,14156.0,Eire,12.75,1,Tuesday,False,False
+489546,21212,Pack of 72 retro spot cake cases,24,2009-12-01 12:30:00,0.55,14156.0,Eire,13.200000000000001,1,Tuesday,False,False
+489546,20751,Funky washing up gloves assorted,12,2009-12-01 12:30:00,2.1,14156.0,Eire,25.200000000000003,1,Tuesday,False,False
+489546,22195,Large heart measuring spoons,12,2009-12-01 12:30:00,1.65,14156.0,Eire,19.799999999999997,1,Tuesday,False,False
+489546,22196,Small heart measuring spoons,12,2009-12-01 12:30:00,0.85,14156.0,Eire,10.2,1,Tuesday,False,False
+489546,22199,Frying pan red polkadot,4,2009-12-01 12:30:00,4.25,14156.0,Eire,17.0,1,Tuesday,False,False
+489548,22271,Feltcraft doll rosie,1,2009-12-01 12:32:00,2.95,nan,United Kingdom,2.95,1,Tuesday,False,False
+489548,22254,Felt toadstool large,12,2009-12-01 12:32:00,1.25,nan,United Kingdom,15.0,1,Tuesday,False,False
+489548,22273,Feltcraft doll molly,3,2009-12-01 12:32:00,2.95,nan,United Kingdom,8.850000000000001,1,Tuesday,False,False
+489548,22195,Large heart measuring spoons,1,2009-12-01 12:32:00,1.65,nan,United Kingdom,1.65,1,Tuesday,False,False
+489548,22131,Food container set 3 love heart,2,2009-12-01 12:32:00,1.95,nan,United Kingdom,3.9,1,Tuesday,False,False
+489548,22079,Ribbon reel hearts design,10,2009-12-01 12:32:00,1.65,nan,United Kingdom,16.5,1,Tuesday,False,False
+489548,22138,Baking set 9 piece retrospot,3,2009-12-01 12:32:00,4.95,nan,United Kingdom,14.850000000000001,1,Tuesday,False,False
+489548,22147,Feltcraft butterfly hearts,2,2009-12-01 12:32:00,1.45,nan,United Kingdom,2.9,1,Tuesday,False,False
+489548,22142,Christmas craft white fairy,2,2009-12-01 12:32:00,1.45,nan,United Kingdom,2.9,1,Tuesday,False,False
+489548,22150,3 stripey mice feltcraft,2,2009-12-01 12:32:00,1.95,nan,United Kingdom,3.9,1,Tuesday,False,False
+489548,20804,Glass chicken butter dish,1,2009-12-01 12:32:00,1.65,nan,United Kingdom,1.65,1,Tuesday,False,False
+489548,22196,Small heart measuring spoons,8,2009-12-01 12:32:00,0.85,nan,United Kingdom,6.8,1,Tuesday,False,False
+489548,22086,Paper chain kit 50's christmas,3,2009-12-01 12:32:00,2.95,nan,United Kingdom,8.850000000000001,1,Tuesday,False,False
+489548,21115,Rose caravan doorstop,1,2009-12-01 12:32:00,6.75,nan,United Kingdom,6.75,1,Tuesday,False,False
+489548,21067,Vintage red teatime mug,6,2009-12-01 12:32:00,1.25,nan,United Kingdom,7.5,1,Tuesday,False,False
+489548,22134,Ladle love heart red,12,2009-12-01 12:32:00,0.42,nan,United Kingdom,5.04,1,Tuesday,False,False
+489548,22132,Red love heart shape cup,12,2009-12-01 12:32:00,0.85,nan,United Kingdom,10.2,1,Tuesday,False,False
+489548,21086,Set/6 red spotty paper cups,25,2009-12-01 12:32:00,0.65,nan,United Kingdom,16.25,1,Tuesday,False,False
+489548,20963,Apple bath sponge,10,2009-12-01 12:32:00,1.25,nan,United Kingdom,12.5,1,Tuesday,False,False
+489548,85053,French enamel candleholder,1,2009-12-01 12:32:00,2.1,nan,United Kingdom,2.1,1,Tuesday,False,False
+489548,84670,Japanese crocheted animal,12,2009-12-01 12:32:00,0.42,nan,United Kingdom,5.04,1,Tuesday,False,False
+489548,21559,Strawberry lunchbox with cutlery,2,2009-12-01 12:32:00,2.55,nan,United Kingdom,5.1,1,Tuesday,False,False
+489548,21558,Skull lunchbox with cutlery,3,2009-12-01 12:32:00,2.55,nan,United Kingdom,7.6499999999999995,1,Tuesday,False,False
+489548,22352,Lunchbox with cutlery retrospot,1,2009-12-01 12:32:00,2.55,nan,United Kingdom,2.55,1,Tuesday,False,False
+489548,21004,Rose du sud childs apron,3,2009-12-01 12:32:00,4.25,nan,United Kingdom,12.75,1,Tuesday,False,False
+489548,21431,Green gingham flower jewellery box,1,2009-12-01 12:32:00,1.65,nan,United Kingdom,1.65,1,Tuesday,False,False
+489548,21980,Pack of 12 red spotty tissues,12,2009-12-01 12:32:00,0.29,nan,United Kingdom,3.4799999999999995,1,Tuesday,False,False
+489548,35004P,Set of 3 pink flying ducks,1,2009-12-01 12:32:00,5.45,nan,United Kingdom,5.45,1,Tuesday,False,False
+489548,21321,Glass chalice blue  large,6,2009-12-01 12:32:00,2.55,nan,United Kingdom,15.299999999999999,1,Tuesday,False,False
+489548,22275,Weekend bag vintage rose paisley,1,2009-12-01 12:32:00,8.5,nan,United Kingdom,8.5,1,Tuesday,False,False
+489548,22276,Wash bag vintage rose paisley,1,2009-12-01 12:32:00,2.55,nan,United Kingdom,2.55,1,Tuesday,False,False
+489548,21094,Set/6 red spotty paper plates,22,2009-12-01 12:32:00,0.85,nan,United Kingdom,18.7,1,Tuesday,False,False
+489548,20753,Retro pink spot washing up gloves,1,2009-12-01 12:32:00,2.1,nan,United Kingdom,2.1,1,Tuesday,False,False
+489548,20754,Retro red spotty washing up gloves,2,2009-12-01 12:32:00,2.1,nan,United Kingdom,4.2,1,Tuesday,False,False
