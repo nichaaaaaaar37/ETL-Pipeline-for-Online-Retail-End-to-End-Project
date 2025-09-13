@@ -75,22 +75,3 @@ ORDER BY total_sales DESC
 LIMIT 10;
 
 
-**Best-Selling Products**
-```sql
-SELECT 
-  StockCode, 
-  SUM(Quantity) AS total_sold
-FROM `project_id.retail_dataset.online_retail_processed`
-GROUP BY StockCode
-ORDER BY total_sold DESC
-LIMIT 10;
-
-
-**Monthly Sales Trend**
-```sql
-SELECT 
-  FORMAT_DATE('%Y-%m', DATE(InvoiceDate)) AS month,
-  SUM(Total_Price) AS monthly_sales
-FROM `project_id.retail_dataset.online_retail_processed`
-GROUP BY month
-ORDER BY month;
