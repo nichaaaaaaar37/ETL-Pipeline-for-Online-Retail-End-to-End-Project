@@ -19,6 +19,24 @@ It processes raw retail sales data, ensures data quality, and loads clean datase
 
 ---
 
+## 📂 Dataset  
+
+🔹 **Online Retail II (E-commerce Transactions)**  
+- 📍 **Source**: [Kaggle - Online Retail II (UCI)](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)  
+- **Description**: Transactional e-commerce dataset containing invoices, products, quantities, countries, and timestamps.  
+- **Data Challenges**: Includes many missing values and duplicate records that require cleaning.  
+
+### 🛠 Requirement Idea (ETL Flow)
+- **Extract** → Load raw CSV files into **Google Cloud Storage** (staging area).  
+- **Transform** → Clean duplicate invoices, handle missing `Customer_ID`, and calculate derived fields (e.g., `Total Price`).  
+- **Load** → Write the transformed dataset into **BigQuery** (`fact_sales` table).  
+- **Analytics** → Run queries for:
+  - 📊 RFM segmentation  
+  - 🏆 Top products per country  
+  - 📈 Sales trends & customer insights
+
+ ---
+ 
 ## 🛠 Tech Stack
 
 - 🐍 **Python** : Core programming language used for data processing and pipeline development.  
