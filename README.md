@@ -60,18 +60,26 @@ It processes raw retail sales data, ensures data quality, and loads clean datase
 
 ---
 
-## 📊 Sample Validation Queries
+### 📊 Sample Analytics & Validation Queries
 
-**Top Customers by Sales**
+**1. Top Customers by Sales**
 ```sql
 SELECT
   Customer_ID,
   ROUND(SUM(Total_Price), 2) AS total_sales,
   SUM(Quantity) AS total_quantity
-FROM `project_id.retail_dataset.online_retail_processed`
+FROM `hip-catalyst-471911-a1.retail_dataset.online_retail_processed`
 WHERE Customer_ID IS NOT NULL
 GROUP BY Customer_ID
 ORDER BY total_sales DESC
 LIMIT 10;
 
-
+SELECT
+  Customer_ID,
+  ROUND(SUM(Total_Price), 2) AS total_sales,
+  SUM(Quantity) AS total_quantity
+FROM `hip-catalyst-471911-a1.retail_dataset.online_retail_processed`
+WHERE Customer_ID IS NOT NULL
+GROUP BY Customer_ID
+ORDER BY total_sales DESC
+LIMIT 10;
