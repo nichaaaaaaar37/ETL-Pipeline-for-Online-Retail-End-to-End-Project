@@ -22,15 +22,19 @@ It processes raw retail sales data, ensures data quality, and loads clean datase
 ## 🛠 Tech Stack
 
 - 🐍 **Python** : Core programming language used for data processing and pipeline development.  
-  - Libraries: **pandas**, **pyarrow**  
+  - Libraries:  
+    - 📊 **pandas** : Data manipulation & analysis  
+    - 🪶 **pyarrow** : Parquet & columnar data format support  
+    - 📦 **google-cloud-storage** : Integration with Google Cloud Storage  
+    - 🔍 **google-cloud-bigquery** : Integration with BigQuery  
 
 - 🌀 **Apache Airflow / Cloud Composer** : Orchestration & scheduling tool to automate, monitor, and manage ETL workflows in a scalable way.  
 
 - ☁️ **Google Cloud Storage (GCS)** : Acts as a **data lake / staging area** for raw and processed data, enabling scalable and secure storage.  
 
-- 🔍 **Google BigQuery** : A **fully managed, serverless data warehouse** used for fast SQL analytics, reporting, and business intelligence.  
+- 🔎 **Google BigQuery** : A **fully managed, serverless data warehouse** used for fast SQL analytics, reporting, and business intelligence.  
 
-- 📊 **SQL** : For **data validation checks** (duplicates, nulls, negative values) and for generating business insights (top customers, sales trends).  
+- 💡 **SQL** : For **data validation checks** (duplicates, nulls, negative values) and for generating business insights (top customers, best-selling products, sales trends).  
 
 ---
 
