@@ -104,8 +104,7 @@ LIMIT 10;
 ```
 **2. Duplicate Check**
 
-```
-sql
+```sql
 SELECT Invoice, StockCode, COUNT(*) AS cnt
 FROM hip-catalyst-471911-a1.retail_dataset.online_retail_processed
 GROUP BY Invoice, StockCode
