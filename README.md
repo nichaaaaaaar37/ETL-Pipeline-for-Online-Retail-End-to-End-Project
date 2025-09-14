@@ -134,3 +134,25 @@ HAVING COUNT(*) > 1;
 ```
 
 #### 📂 More Samples in [sql/](./sql) folder :)
+
+## 📸 Project Results (Screenshots)
+
+Here are key screenshots demonstrating the successful execution of the ETL pipeline:
+
+- ✅ **Airflow DAG Success**  
+  All tasks in the DAG completed successfully (green status).  
+
+- 📂 **Google Cloud Storage (GCS)**  
+  Cleaned data file `online_retail_processed.parquet` uploaded to GCS bucket.  
+
+- 🗄️ **BigQuery Table**  
+  Transformed dataset successfully loaded into BigQuery table `retail_dataset.online_retail_processed`.  
+
+- 📊 **Analytics Queries**  
+  Example query outputs:  
+  - Top customers by sales  
+  - Best-selling products per country  
+  - Monthly sales trends  
+
+*(Screenshots included in the repository for reference.)*
+
