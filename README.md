@@ -137,17 +137,23 @@ HAVING COUNT(*) > 1;
 
 ## 📸 Project Results (Screenshots)
 
-Here are key snapshots demonstrating the successful execution of the ETL pipeline:
+Key snapshots that demonstrate the end-to-end pipeline execution:
 
-- ✅ **Airflow Task Logs Success**  
-  ![Airflow Task Logs](./Overall%20Pictures%20Preview/2.1%20-%20Airflow%20Task%20Logs.png)
+- 🌀 **Apache Airflow DAGs**  
+  ![Apache Airflow DAGs](./Overall%20Pictures%20Preview/1-%20Apache%20Airflow/airflow_dags.png)
 
-- 📂 **GCS Upload**  
-  ![GCS File Upload](./Overall%20Pictures%20Preview/Screenshot%20XYZ.png)
+- 📑 **Airflow Task Logs (Job Success)**  
+  ![Airflow Task Logs](./Overall%20Pictures%20Preview/2%20-%20Airflow%20Task%20Logs/task_log_success.png)
+
+- ☁️ **Google Cloud Storage (GCS) Upload**  
+  ![GCS Upload](./Overall%20Pictures%20Preview/3%20-%20Google%20Cloud%20Storage%20(GCS)/gcs_upload.png)
 
 - 🗄️ **BigQuery Table Preview**  
-  ![BigQuery Table Preview](./Overall%20Pictures%20Preview/Screenshot%20ABC.png)
+  ![BigQuery Table Preview](./Overall%20Pictures%20Preview/4%20-%20BigQuery%20%E2%80%93%20Table%20Preview/bq_table_preview.png)
 
-- 📊 **Sample Analytics Query Results**  
-  ![Analytics Queries](./Overall%20Pictures%20Preview/Screenshot%20DEF.png)
+- 📊 **BigQuery Query Results (Analytics)**  
+  ![BigQuery Query Results](./Overall%20Pictures%20Preview/5%20-%20BigQuery%20Query%20Results/bq_query_results.png)
+
+- 🎛️ **Cloud Composer (Pipeline Orchestration)**  
+  ![Cloud Composer](./Overall%20Pictures%20Preview/6%20-%20Cloud%20Composer/cloud_composer.png)
 
