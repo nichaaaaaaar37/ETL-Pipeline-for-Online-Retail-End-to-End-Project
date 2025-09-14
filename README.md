@@ -1,5 +1,5 @@
 # ETL-Pipeline-for-Online-Retail-End-to-End-Project  
-End-to-End ETL Pipeline using Apache Airflow & GCP : Cloud Composer, Google Cloud Storage, and BigQuery  
+End-to-End ETL Pipeline using Apache Airflow & GCP: Cloud Composer, Google Cloud Storage, and BigQuery  
 
 # Retail ETL & Data Validation Pipeline  
 
@@ -23,12 +23,12 @@ It processes raw retail sales data, ensures data quality, and loads clean datase
 
 🔹 **Online Retail II (E-commerce Transactions)**  
 - 📍 **Source**: [Kaggle - Online Retail II (UCI)](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)  
-- **Description**: Transactional e-commerce dataset containing invoices, products, quantities, countries, and timestamps.  
-- **Data Challenges**: Includes many missing values and duplicate records that require cleaning.  
+- **Description**: A transactional e-commerce dataset containing invoices, products, quantities, countries, and timestamps.  
+- **Data Challenges**: Contains missing values and duplicate records that require cleaning.  
 
-### 🛠 Requirement Idea (ETL Flow)  
+### 🛠 ETL Flow (Requirements)  
 - **Extract** → Load raw CSV files into **Google Cloud Storage** (staging area).  
-- **Transform** → Clean duplicate invoices, handle missing `Customer_ID`, and calculate derived fields (e.g., `Total Price`).  
+- **Transform** → Remove duplicate invoices, handle missing `Customer_ID`, and calculate derived fields (e.g., `Total Price`).  
 - **Load** → Write the transformed dataset into **BigQuery** (`fact_sales` table).  
 - **Analytics** → Run queries for:  
   - 📊 RFM segmentation  
@@ -39,20 +39,20 @@ It processes raw retail sales data, ensures data quality, and loads clean datase
 
 ## 🛠 Tech Stack  
 
-- 🐍 **Python** : Core programming language used for data processing and pipeline development.  
+- 🐍 **Python**: Core programming language for data processing and pipeline development.  
   - Libraries:  
-    - 📊 **pandas** : Data manipulation & analysis  
-    - 🪶 **pyarrow** : Parquet & columnar data format support  
-    - 📦 **google-cloud-storage** : Integration with Google Cloud Storage  
-    - 🔍 **google-cloud-bigquery** : Integration with BigQuery  
+    - 📊 **pandas** – Data manipulation & analysis  
+    - 🪶 **pyarrow** – Parquet & columnar data format support  
+    - 📦 **google-cloud-storage** – Integration with Google Cloud Storage  
+    - 🔍 **google-cloud-bigquery** – Integration with BigQuery  
 
-- 🌀 **Apache Airflow / Cloud Composer** : Orchestration & scheduling tool to automate, monitor, and manage ETL workflows in a scalable way.  
+- 🌀 **Apache Airflow / Cloud Composer**: Workflow orchestration and scheduling to automate, monitor, and manage ETL pipelines.  
 
-- ☁️ **Google Cloud Storage (GCS)** : Acts as a **data lake / staging area** for raw and processed data.  
+- ☁️ **Google Cloud Storage (GCS)**: Serves as a **data lake / staging area** for raw and processed data.  
 
-- 🔎 **Google BigQuery** : A **fully managed, serverless data warehouse** for analytics, reporting, and BI.  
+- 🔎 **Google BigQuery**: A **fully managed, serverless data warehouse** for analytics, reporting, and BI.  
 
-- 💡 **SQL** : For **data validation checks** (duplicates, nulls, negative values) and for generating business insights.  
+- 💡 **SQL**: For **data validation checks** (duplicates, nulls, negative values) and business intelligence queries.  
 
 ---
 
@@ -63,8 +63,8 @@ It processes raw retail sales data, ensures data quality, and loads clean datase
 | 1    | Load Data                | Download CSV from GCS and save as Parquet.                                                                                                                                                                        |
 | 2    | Drop Duplicates          | Remove duplicate rows by `Invoice + StockCode + InvoiceDate`.                                                                                                                                                      |
 | 3    | Handle Missing Values    | Fill nulls with defaults (`Unknown`, `0`).                                                                                                                                                                        |
-| 4    | Feature Engineering      | Create `Total Price`, date features, weekend flag.                                                                                                                                                                |
-| 5    | Handle Outliers          | Filter invalid values (≤ 0), flag transactions > 1000.                                                                                                                                                            |
+| 4    | Feature Engineering      | Create `Total Price`, date features, and weekend flag.                                                                                                                                                            |
+| 5    | Handle Outliers          | Filter invalid values (≤ 0) and flag transactions > 1000.                                                                                                                                                         |
 | 6    | Convert Data Types       | Ensure schema consistency (int, float, string). `InvoiceDate` is stored as **INT64 (nanoseconds)** for compatibility → requires conversion in queries (`TIMESTAMP_MILLIS(CAST(InvoiceDate / 1000000 AS INT64))`). |
 | 7    | Trim & Normalize Strings | Clean text fields (`Description`, `Country`, `StockCode`).                                                                                                                                                        |
 | 8    | Upload to GCS            | Save processed data back to GCS as Parquet.                                                                                                                                                                       |
@@ -74,23 +74,23 @@ It processes raw retail sales data, ensures data quality, and loads clean datase
 
 ## 🔎 Mapping Between Code & Workflow  
 
-| Code Function | Workflow Step | Description |
-|---------------|---------------|-------------|
-| `load_data` | Step 1 | Extract raw CSV from GCS, save as Parquet |
-| `drop_duplicates` | Step 2 | Remove duplicate rows |
-| `handle_missing_values` | Step 3 | Fill missing values with defaults |
-| `feature_engineering` | Step 4 | Add features (`Total Price`, day of week, weekend) |
-| `handle_outliers` | Step 5 | Filter invalid values, flag high-price rows |
-| `convert_data_types` | Step 6 | Cast columns to correct types |
-| `trim_and_normalize_strings` | Step 7 | Normalize string columns |
-| `upload_to_gcs` | Step 8 | Upload cleaned Parquet to GCS |
-| `load_to_bigquery` | Step 9 | Load Parquet into BigQuery table |
+| Code Function               | Workflow Step | Description                                   |
+|-----------------------------|---------------|-----------------------------------------------|
+| `load_data`                 | Step 1        | Extract raw CSV from GCS, save as Parquet.    |
+| `drop_duplicates`           | Step 2        | Remove duplicate rows.                        |
+| `handle_missing_values`     | Step 3        | Fill missing values with defaults.            |
+| `feature_engineering`       | Step 4        | Add features (`Total Price`, day of week).    |
+| `handle_outliers`           | Step 5        | Filter invalid values, flag high-price rows.  |
+| `convert_data_types`        | Step 6        | Cast columns to correct types.                |
+| `trim_and_normalize_strings`| Step 7        | Normalize string columns.                     |
+| `upload_to_gcs`             | Step 8        | Upload cleaned Parquet to GCS.                |
+| `load_to_bigquery`          | Step 9        | Load Parquet into BigQuery table.             |
 
 ---
 
 ## 📂 Sample Cleaned Data  
 
-A sample of the cleaned dataset (after ETL pipeline, before loading into BigQuery) is included for quick inspection.  
+A sample of the cleaned dataset (after the ETL pipeline, before loading into BigQuery) is included for quick inspection.  
 
 🧤✨ [cleaned_data/final_online_retail_cleaned_sample.csv](./cleaned_data/final_online_retail_cleaned_sample.csv)  
 
@@ -162,22 +162,23 @@ We must convert it to a valid TIMESTAMP using TIMESTAMP_MILLIS() before formatti
 
 ## 📸 Project Results (Overall Pictures Preview)
 
-Here are key screenshots demonstrating the successful execution of the ETL pipeline:
+Key screenshots demonstrating the successful execution of the ETL pipeline:
 
 - ✅ **Airflow DAG Success**  
   All tasks in the DAG completed successfully (green status).  
 
 - 📂 **Google Cloud Storage (GCS)**  
-  Cleaned data file `online_retail_processed.parquet` uploaded to GCS bucket.  
+  Cleaned data file `online_retail_processed.parquet` uploaded to the GCS bucket.  
 
 - 🗄️ **BigQuery Table**  
   Transformed dataset successfully loaded into BigQuery table `retail_dataset.online_retail_processed`.  
 
 - 📊 **Analytics Queries**  
-  Example query outputs:  
+  Example query outputs include:  
   - Top customers by sales  
   - Best-selling products per country  
   - Monthly sales trends  
 
-*(Screenshots included in the repository for reference.)*
+*(Overall Pictures Preview are included in the repository for reference.)*
+
 
