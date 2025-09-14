@@ -58,17 +58,17 @@ It processes raw retail sales data, ensures data quality, and loads clean datase
 
 ## ⚙️ Pipeline Workflow  
 
-| Step | Task | Description |
-|------|------|-------------|
-| 1 | Load Data | Download CSV from GCS and save as Parquet |
-| 2 | Drop Duplicates | Remove duplicate rows by `Invoice + StockCode + InvoiceDate` |
-| 3 | Handle Missing Values | Fill nulls with defaults (`Unknown`, `0`) |
-| 4 | Feature Engineering | Create `Total Price`, date features, weekend flag |
-| 5 | Handle Outliers | Filter invalid values (≤0), flag transactions > 1000 |
-| 6 | Convert Data Types | Ensure schema consistency (int, float, datetime) |
-| 7 | Trim & Normalize Strings | Clean text fields (`Description`, `Country`, `StockCode`) |
-| 8 | Upload to GCS | Save processed data back to GCS as Parquet |
-| 9 | Load to BigQuery | Load final dataset into BigQuery for analytics |
+| Step | Task                     | Description                                                                                                                                                                                                       |
+| ---- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Load Data                | Download CSV from GCS and save as Parquet.                                                                                                                                                                        |
+| 2    | Drop Duplicates          | Remove duplicate rows by `Invoice + StockCode + InvoiceDate`.                                                                                                                                                      |
+| 3    | Handle Missing Values    | Fill nulls with defaults (`Unknown`, `0`).                                                                                                                                                                        |
+| 4    | Feature Engineering      | Create `Total Price`, date features, weekend flag.                                                                                                                                                                |
+| 5    | Handle Outliers          | Filter invalid values (≤ 0), flag transactions > 1000.                                                                                                                                                            |
+| 6    | Convert Data Types       | Ensure schema consistency (int, float, string). `InvoiceDate` is stored as **INT64 (nanoseconds)** for compatibility → requires conversion in queries (`TIMESTAMP_MILLIS(CAST(InvoiceDate / 1000000 AS INT64))`). |
+| 7    | Trim & Normalize Strings | Clean text fields (`Description`, `Country`, `StockCode`).                                                                                                                                                        |
+| 8    | Upload to GCS            | Save processed data back to GCS as Parquet.                                                                                                                                                                       |
+| 9    | Load to BigQuery         | Load final dataset into BigQuery for analytics.                                                                                                                                                                   |
 
 ---
 
@@ -115,12 +115,12 @@ A sample of the cleaned dataset (after ETL pipeline, before loading into BigQuer
 
 ```sql
 SELECT
-  Customer_ID,
-  ROUND(SUM(Total_Price), 2) AS total_sales,
+  `Customer ID`,
+  ROUND(SUM(`Total Price`), 2) AS total_sales,
   SUM(Quantity) AS total_quantity
 FROM `hip-catalyst-471911-a1.retail_dataset.online_retail_processed`
-WHERE Customer_ID IS NOT NULL
-GROUP BY Customer_ID
+WHERE `Customer ID` IS NOT NULL
+GROUP BY `Customer ID`
 ORDER BY total_sales DESC
 LIMIT 10;
 ```
@@ -132,6 +132,31 @@ FROM hip-catalyst-471911-a1.retail_dataset.online_retail_processed
 GROUP BY Invoice, StockCode
 HAVING COUNT(*) > 1;
 ```
+**3. Top Products per Country**
+
+```sql
+SELECT
+  Country,
+  Description,
+  SUM(Quantity) AS total_quantity
+FROM `hip-catalyst-471911-a1.retail_dataset.online_retail_processed`
+GROUP BY Country, Description
+ORDER BY Country, total_quantity DESC;
+```
+***4. Monthly Sales Trend***
+
+```sql
+SELECT
+  FORMAT_TIMESTAMP('%Y-%m',
+    TIMESTAMP_MILLIS(CAST(InvoiceDate / 1000000 AS INT64))
+  ) AS year_month,
+  SUM(`Total Price`) AS total_sales
+FROM `hip-catalyst-471911-a1.retail_dataset.online_retail_processed`
+GROUP BY year_month
+ORDER BY year_month;
+```
+📝 Note: InvoiceDate is stored as an INT64 (nanoseconds) value in BigQuery.
+We must convert it to a valid TIMESTAMP using TIMESTAMP_MILLIS() before formatting.
 
 #### 📂 More Samples in [sql/](./sql) folder :)
 
