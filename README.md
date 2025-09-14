@@ -135,7 +135,7 @@ HAVING COUNT(*) > 1;
 
 #### 📂 More Samples in [sql/](./sql) folder :)
 
-## 📸 Project Results (Screenshots)
+## 📸 Project Results (Overall Pictures Preview)
 
 Here are key screenshots demonstrating the successful execution of the ETL pipeline:
 
