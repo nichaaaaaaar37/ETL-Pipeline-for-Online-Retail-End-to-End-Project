@@ -134,3 +134,20 @@ HAVING COUNT(*) > 1;
 ```
 
 #### 📂 More Samples in [sql/](./sql) folder :)
+
+## 📸 Project Results (Screenshots)
+
+Here are key snapshots demonstrating the successful execution of the ETL pipeline:
+
+- ✅ **Airflow Task Logs Success**  
+  ![Airflow Task Logs](./Overall%20Pictures%20Preview/2.1%20-%20Airflow%20Task%20Logs.png)
+
+- 📂 **GCS Upload**  
+  ![GCS File Upload](./Overall%20Pictures%20Preview/Screenshot%20XYZ.png)
+
+- 🗄️ **BigQuery Table Preview**  
+  ![BigQuery Table Preview](./Overall%20Pictures%20Preview/Screenshot%20ABC.png)
+
+- 📊 **Sample Analytics Query Results**  
+  ![Analytics Queries](./Overall%20Pictures%20Preview/Screenshot%20DEF.png)
+
