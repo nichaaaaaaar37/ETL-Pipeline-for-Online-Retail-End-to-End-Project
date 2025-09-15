@@ -21,7 +21,9 @@ It processes raw retail sales data, ensures data quality, and loads clean datase
 
 ## 🎀 Pipeline Architechture  
 
-![ETL Pipeline Diagram](Overall Pictures Preview/etl-online-retail-project.png)
+
+![ETL Pipeline](https://github.com/nichaaaaaaar37/ETL-Pipeline-for-Online-Retail-End-to-End-Project/blob/main/Overall%20Pictures%20Preview/etl-online-retail-project.png?raw=true)
+
 
 ---
 
