@@ -19,6 +19,11 @@ It processes raw retail sales data, ensures data quality, and loads clean datase
 
 ---
 
+## 🎀 Pipeline Architechture  
+![ETL Pipeline](images/bmd.png)
+ 
+---
+
 ## 📂 Dataset  
 
 🔹 **Online Retail II (E-commerce Transactions)**  
