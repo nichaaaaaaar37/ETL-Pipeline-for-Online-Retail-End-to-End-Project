@@ -42,7 +42,6 @@ It processes raw retail sales data, ensures data quality, and loads clean datase
 - 🐍 **Python**: Core programming language for data processing and pipeline development.  
   - Libraries:  
     - 📊 **pandas** – Data manipulation & analysis  
-    - 🪶 **pyarrow** – Parquet & columnar data format support  
     - 📦 **google-cloud-storage** – Integration with Google Cloud Storage  
     - 🔍 **google-cloud-bigquery** – Integration with BigQuery  
 
