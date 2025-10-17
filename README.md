@@ -150,7 +150,7 @@ FROM `hip-catalyst-471911-a1.retail_dataset.online_retail_processed`
 GROUP BY Country, Description
 ORDER BY Country, total_quantity DESC;
 ```
-***4. Monthly Sales Trend***
+**4. Monthly Sales Trend**
 
 ```sql
 SELECT
