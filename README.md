@@ -1,4 +1,4 @@
-# ETL-Pipeline-for-Online-Retail-End-to-End-Project  
+# Automated-Online-Retail-ETL-Pipeline-End-to-End-Project  
 End-to-End ETL Pipeline using Apache Airflow & GCP: Cloud Composer, Google Cloud Storage, and BigQuery  
 
 # Retail ETL & Data Validation Pipeline  
