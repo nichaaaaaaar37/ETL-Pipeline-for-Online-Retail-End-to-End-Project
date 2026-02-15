@@ -8,7 +8,7 @@ from airflow.providers.standard.operators.python import PythonOperator
 BUCKET_NAME = "your-bucket-name"
 DATASET_ID = "your_dataset"
 TABLE_ID = "your_table"
-CSV_FILE_PATH = "dags/your_file.csv"  # Path inside GCS bucket
+CSV_FILE_PATH = "data/your_file.csv"  # Path inside GCS bucket
 
 # ---------------- TASK FUNCTIONS ----------------
 
