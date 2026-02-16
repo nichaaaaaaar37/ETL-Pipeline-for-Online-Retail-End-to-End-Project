@@ -139,7 +139,7 @@ def load_to_bigquery(**kwargs):
 
 with DAG(
     dag_id='etl_retail_gcs_complete',
-    start_date=days_ago(1),
+    start_date=datetime(2026, 2, 15)
     schedule_interval="0 6 * * *",
     catchup=False,
     tags=['etl', 'retail', 'gcp'],
