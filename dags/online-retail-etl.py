@@ -1,6 +1,6 @@
 import pandas as pd
 from airflow import DAG
-from airflow.utils.dates import days_ago
+from datetime import datetime
 from google.cloud import storage, bigquery
 from airflow.providers.standard.operators.python import PythonOperator
 
